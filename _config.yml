@@ -7,7 +7,7 @@ permalink: /:title.html
 conf:
   name: "Android Jam"
   description: "GDG Aracaju Study Jam"
-  date: "07/02 28/03/2015 "
+  date: "Fevereiro a Março/2015"
   price: ":-)"
   address: "Av. Desembargador Maynard, 142"
   venue: "DP Sistemas"
@@ -19,7 +19,7 @@ site:
   favicon: "http://www.gdgaracaju.com.br/favicon.ico"
   googleanalytics: "UA-49492619-1"
   images:
-    cover: "./img/Study_Jams_Android_ID_Assets-01.png"
+    cover: "./img/Study_Jams_Android_ID_Assets-01b.png"
     facebook: "./img/Study_Jams_Android_ID_Assets-01.png"
 
 subscribe_text: "Inscreva-se"
