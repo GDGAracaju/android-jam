@@ -110,26 +110,30 @@ schedule:
 
 # List of Sponsors
 sponsors:
-  -
-    name: "Eventick"
-    logo: "http://f.cl.ly/items/1U3p0Z0e2w0I1i3z1X22/Image%202012.09.25%203:00:58%20PM.png"
-    url: "http://eventick.com.br"
+  #-
+  #  name: "Eventick"
+  #  logo: "http://f.cl.ly/items/1U3p0Z0e2w0I1i3z1X22/Image%202012.09.25%203:00:58%20PM.png"
+  #  url: "http://eventick.com.br"
 
 # List of Partners
 partners:
   -
-    name: "BrazilJS"
-    logo: "http://f.cl.ly/items/2N3i2W0X2f3c2g2Z2N0f/Untitled-1.png"
-    url: "http://braziljs.org"
+    name: "CajuValley"
+    logo: "./img/partners/cajuvalley.png"
+    url: "https://www.facebook.com/cajuvalley"
+  -
+    name: "GDG Aracaju"
+    logo: "./img/partners/gdgaracaju.png"
+    url: "https://www.gdgaracaju.com.br/"
 
 # About section
 about_section:
    title: "Sobre"
    description: 
     - 
-      p: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      p: "O Android Jam faz parte do Google Developers Study Jams, que é uma série global de eventos para formar grupos de estudos nas comunidades. A primeira sessão da iniciativa está sendo realizada em parceria com o Udacity e seguirá o curso Android Fundamentals da plataforma"
     - 
-      p: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      p: "Nós do GDG Aracaju estamos convidando todos os interessados na plataforma Android para estudar conosco e desenvolver aplicativos completos. Cada encontro será lotado de conteúdo e contará também com uma palestra de um profissional convidado."
 
 # Call for papers section
 c4p_section:
@@ -143,17 +147,17 @@ c4p_section:
 # Contact section
 contact_section:
    title: "Contato"
-   text: "Contact us if you have any questions."
+   text: "Fale conosco se tiver qualquer dúvida!"
    contacts:
    -
      title: "Email"
-     link: "mailto:your_email@domain"
+     link: "mailto:gdgaracaju@gmail.com"
    -
-     title: "Facebook"
-     link: "https://www.facebook.com/yourpage"
-   email: "your_email@domain"
-   twitter_url: "http://twitter.com/your_twitter"
-   twitter_username: "@your_twitter"
+     title: "Google+"
+     link: "https://plus.google.com/communities/100418157558568471841"
+   email: "gdgaracaju@gmail.com"
+   twitter_url: "http://twitter.com/gdgaracaju"
+   twitter_username: "@gdgaracaju"
    show_form: false
    form:
     action: "contato.php"
