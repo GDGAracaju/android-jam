@@ -5,33 +5,33 @@ permalink: /:title.html
 
 # Conference info
 conf:
-  name: "Conference name"
-  description: "Conference description"
-  date: "November 15"
-  price: "Only $100"
-  address: "Boulevard Kukulcan, 30, México"
-  venue: "Coco Bongo"
-  city: "Cancún"
+  name: "Android Jam"
+  description: "GDG Aracaju Study Jam"
+  date: "07/02 28/03/2015 "
+  price: ":-)"
+  address: "Av. Desembargador Maynard, 142"
+  venue: "DP Sistemas"
+  city: "Aracaju"
 
 # Site info
 site:
-  url: "http://confboilerplate.com"
-  favicon: "http://braziljs.org/favicon.ico"
-  googleanalytics: "UA-33656081-1"
+  url: "http://android.gdgaracaju.com.br"
+  favicon: "http://www.gdgaracaju.com.br/favicon.ico"
+  googleanalytics: "UA-49492619-1"
   images:
-    cover: "http://f.cl.ly/items/2X28422q1e3w0C2U1P3H/866591_24254643.jpg"
-    facebook: "http://braziljs.org/img/fb-share.jpg"
+    cover: "./img/Study_Jams_Android_ID_Assets-01.png"
+    facebook: "./img/Study_Jams_Android_ID_Assets-01.png"
 
-subscribe_text: "Register now"
+subscribe_text: "Inscreva-se"
 subscribe_url: "http://www.eventick.com.br/"
 
 # Active sections on the website
 sections:
   about: true
-  c4p: true
+  c4p: false
   location: true
-  speakers: true
-  schedule: true
+  speakers: false
+  schedule: false
   sponsors: true
   partners: true
   contact: false
@@ -124,7 +124,7 @@ partners:
 
 # About section
 about_section:
-   title: "About"
+   title: "Sobre"
    description: 
     - 
       p: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
@@ -142,7 +142,7 @@ c4p_section:
 
 # Contact section
 contact_section:
-   title: "Contact"
+   title: "Contato"
    text: "Contact us if you have any questions."
    contacts:
    -
@@ -164,16 +164,16 @@ contact_section:
 
 # Location section
 location_section:
-   title: "Location"
+   title: "Local"
 
 # Partners section
 partners_section:
-   title: "Partners"
+   title: "Parceiros"
    show_your_logo_here: true
 
 # Schedule section
 schedule_section:
-   title: "Schedule"
+   title: "Programação"
    text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
    time: "Time"
    slot: "Slot"
@@ -181,9 +181,9 @@ schedule_section:
 
 # Speakers section
 speakers_section:
-   title: "Speakers"
+   title: "Palestrantes"
 
 # Sponsors section
 sponsors_section:
-   title: "Sponsors"
+   title: "Patrocinadores"
    show_your_logo_here: true
