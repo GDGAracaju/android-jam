@@ -19,8 +19,8 @@ site:
   favicon: "http://www.gdgaracaju.com.br/favicon.ico"
   googleanalytics: "UA-49492619-1"
   images:
-    cover: "./img/Study_Jams_Android_ID_Assets-01b.png"
-    facebook: "./img/Study_Jams_Android_ID_Assets-01.png"
+    cover: "./img/studyjam_assets/01.png"
+    facebook: "./img/studyjam_assets/01.png"
 
 subscribe_text: "Inscreva-se"
 subscribe_url: "http://www.eventick.com.br/"
