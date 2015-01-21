@@ -30,83 +30,87 @@ sections:
   about: true
   c4p: false
   location: true
-  speakers: false
+  speakers: true
   schedule: false
   sponsors: true
   partners: true
-  contact: false
+  contact: true
 
 # The entire schedule
 schedule:
+  #-
+  #  name: "Check-in / Breakfast"
+  #  time: "9h00"
   -
-    name: "Check-in / Breakfast"
-    time: "9h00"
-  -
-    name: "Linus Torvalds"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Linux Foundation"
-    twitter: "linus"
+    name: "Breno Moura"
+    photo: "./img/speakers/breno_moura.jpg"
+    bio: ""
+    company: "Jaya Apps"
+    twitter: ""
     presentation:
-      title: "Digging into a Linux Kernel"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "10h00"
+      title: "Criando APIs com Rails"
+      description: ""
+      time: "--"
   -
-    name: "Bill Gates"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Microsoft"
-    twitter: "billy95"
+    name: "Euler Neto"
+    photo: "./img/speakers/euler_neto.jpg"
+    bio: ""
+    company: "UFS"
+    twitter: ""
     presentation:
-      title: "Introducing Windows 12"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "11h00"
+      title: "Segurança no Android"
+      description: ""
+      time: "--"
   -
-    name: "Lunch"
-    time: "12h00"
-  -
-    name: "Chuck Norris"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Delta Command"
-    twitter: "littlechuck"
+    name: "Erick Mendonça"
+    photo: "./img/speakers/erick_mendonca.jpg"
+    bio: ""
+    company: "UFS"
+    twitter: "erickmagnus"
     presentation:
-      title: "How to kill a elephant with one finger"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "13h00"
+      title: "Começando o desenvolvimento de aplicativos Android"
+      description: ""
+      time: "07/02"
   -
-    name: "Steve Jobs"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Apple, Inc."
-    twitter: "stevie"
+    name: "Hugo Dória"
+    photo: "./img/speakers/hugo_doria.jpg"
+    bio: ""
+    company: "Popcode"
+    twitter: ""
     presentation:
-      title: "Presenting iPad"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "14h00"
+      title: "API-First"
+      description: ""
+      time: "--"
   -
-    name: "Coffee-break"
-    time: "15h00"
-  -
-    name: "Mark Zuckerberg"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Facebook"
-    twitter: "zuck"
+    name: "Ítalo Marcel"
+    photo: "./img/speakers/italo_marcel.jpg"
+    bio: ""
+    company: "Getinfo"
+    twitter: ""
     presentation:
-      title: "Revealing Facebook Secrets"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "16h00"
+      title: "Material Design"
+      description: ""
+      time: "--"
   -
-    name: "Steve Wozniak"
-    photo: "http://f.cl.ly/items/2A3p1N0C3c0n3N3R1w2B/speaker.jpg"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-    company: "Apple, Inc."
-    twitter: "woz"
+    name: "Lucas Xavier"
+    photo: "./img/speakers/lucas_xavier.jpg"
+    bio: ""
+    company: ""
+    twitter: ""
     presentation:
-      title: "Why do I prefer Android over iPhone"
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo"
-      time: "17h00"
+      title: "Construindo apps Android de Alto Desempenho"
+      description: ""
+      time: "--"
+  -
+    name: "Roberto Brandini"
+    photo: "./img/speakers/roberto_brandini.jpg"
+    bio: ""
+    company: "DP Sistemas"
+    twitter: ""
+    presentation:
+      title: "Backend para aplicativos mobile"
+      description: ""
+      time: "--"
 
 # List of Sponsors
 sponsors:
@@ -125,6 +129,10 @@ partners:
     name: "GDG Aracaju"
     logo: "./img/partners/gdgaracaju.png"
     url: "https://www.gdgaracaju.com.br/"
+  -
+    name: "DP Sistemas"
+    logo: "./img/partners/dpsistemas.png"
+    url: "https://www.dpsistemas.com.br/"
 
 # About section
 about_section:
@@ -138,7 +146,7 @@ about_section:
 # Call for papers section
 c4p_section:
    title: "Call for papers"
-   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+   text: " consequat."
    c4p_url: "http://call4paperz.com"
    c4p_caption: "Submit"
    c4p_rules_url: "http://call4paperz.com"
