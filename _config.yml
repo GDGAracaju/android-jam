@@ -46,7 +46,7 @@ schedule:
     photo: "./img/speakers/breno_moura.jpg"
     bio: ""
     company: "Jaya Apps"
-    twitter: ""
+    plus: "+BrenoMoura27"
     presentation:
       title: "Criando APIs com Rails"
       description: ""
@@ -56,7 +56,7 @@ schedule:
     photo: "./img/speakers/euler_neto.jpg"
     bio: ""
     company: "UFS"
-    twitter: ""
+    plus: "+EulerNetoNgt"
     presentation:
       title: "Segurança no Android"
       description: ""
@@ -66,7 +66,7 @@ schedule:
     photo: "./img/speakers/erick_mendonca.jpg"
     bio: ""
     company: "UFS"
-    twitter: "erickmagnus"
+    plus: "+ErickMendonca"
     presentation:
       title: "Começando o desenvolvimento de aplicativos Android"
       description: ""
@@ -76,9 +76,9 @@ schedule:
     photo: "./img/speakers/hugo_doria.jpg"
     bio: ""
     company: "Popcode"
-    twitter: ""
+    plus: "106714577233715858252"
     presentation:
-      title: "API-First"
+      title: "API-First: a 'Revolução Industrial' do software"
       description: ""
       time: "--"
   -
@@ -86,7 +86,7 @@ schedule:
     photo: "./img/speakers/italo_marcel.jpg"
     bio: ""
     company: "Getinfo"
-    twitter: ""
+    plus: "+ItaloMarcel"
     presentation:
       title: "Material Design"
       description: ""
@@ -96,9 +96,9 @@ schedule:
     photo: "./img/speakers/lucas_xavier.jpg"
     bio: ""
     company: ""
-    twitter: ""
+    plus: "+LucasXavierAS"
     presentation:
-      title: "Construindo apps Android de Alto Desempenho"
+      title: "Construindo aplicativos Android de alto desempenho"
       description: ""
       time: "--"
   -
@@ -106,7 +106,7 @@ schedule:
     photo: "./img/speakers/roberto_brandini.jpg"
     bio: ""
     company: "DP Sistemas"
-    twitter: ""
+    plus: "+RobertoBrandini"
     presentation:
       title: "Backend para aplicativos mobile"
       description: ""
