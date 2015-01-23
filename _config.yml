@@ -55,11 +55,11 @@ schedule:
   -
     name: "Lucas Xavier"
     photo: "./img/speakers/lucas_xavier.jpg"
-    bio: ""
+    bio: "Lucas é um desenvolvedor com um background bastante variado. Ao mesmo tempo que ama construir apps, ele também é louco por desconstruí-los. Sua especialização em testes lhe deu um maior experiência para construção de aplicativos confiáveis."
     company: ""
     plus: "+LucasXavierAS"
     presentation:
-      title: "Construindo aplicativos Android de alto desempenho"
+      title: "Salve o mundo deixando o seu código mais testável"
       description: ""
       time: "07/02"
   -
@@ -79,7 +79,7 @@ schedule:
     company: "Getinfo"
     plus: "+ItaloMarcel"
     presentation:
-      title: "Material Design"
+      title: "tema a definir"
       description: ""
       time: "21/02"
   -
@@ -99,7 +99,7 @@ schedule:
     company: "Popcode"
     plus: "106714577233715858252"
     presentation:
-      title: "API-First: a 'Revolução Industrial' do software"
+      title: "tema a definir"
       description: ""
       time: "07/03"
   -
@@ -153,7 +153,7 @@ about_section:
     - 
       p: "O Android Jam faz parte do Google Developers Study Jams, que é uma série global de eventos para formar grupos de estudos nas comunidades. A primeira sessão da iniciativa está sendo realizada em parceria com o Udacity e seguirá o curso Android Fundamentals da plataforma."
     - 
-      p: "Haverão 7 reuniões: 5 presenciais e 2 via Hangouts. Confiram as datas: 07 e 21/02, 07, 21 e 28/03 serão os encontros presenciais. Nos dias 28/02 e 14/03 serão via Hangouts!"
+      p: "Haverão 7 reuniões: 5 presenciais e 2 via Hangouts. Confiram as datas: 07 e 21/02, 07, 21 e 28/03 serão os encontros presenciais. Nos dias 28/02 e 14/03 serão via Hangouts! Todos os eventos serão das 14h às 18h."
     - 
       p: "Reembolsos: se você não puder comparecer ao evento, você pode pedir reembolso até 5 dias antes do mesmo. Nós reembolsaremos o valor da entrada, deduzida das taxas do Eventick."
     -
