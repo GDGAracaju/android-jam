@@ -8,7 +8,7 @@ conf:
   name: "Android Jam"
   description: "GDG Aracaju Study Jam"
   date: "Fevereiro a Março/2015"
-  price: ":-)"
+  price: "A partir de R$ 15,00"
   address: "Av. Desembargador Maynard, 142"
   venue: "DP Sistemas"
   city: "Aracaju"
@@ -19,11 +19,11 @@ site:
   favicon: "http://www.gdgaracaju.com.br/favicon.ico"
   googleanalytics: "UA-49492619-1"
   images:
-    cover: "./img/studyjam_assets/01.png"
-    facebook: "./img/studyjam_assets/01.png"
+    cover: "./img/android_garden.jpg"
+    facebook: "http://android.gdgaracaju.com.br/img/studyjam_assets/01.png"
 
-subscribe_text: "Inscreva-se"
-subscribe_url: "http://www.eventick.com.br/"
+subscribe_text: "Inscrições abertas!"
+subscribe_url: "http://www.eventick.com.br/android-jam-sergipe-1"
 
 # Active sections on the website
 sections:
@@ -42,26 +42,6 @@ schedule:
   #  name: "Check-in / Breakfast"
   #  time: "9h00"
   -
-    name: "Breno Moura"
-    photo: "./img/speakers/breno_moura.jpg"
-    bio: ""
-    company: "Jaya Apps"
-    plus: "+BrenoMoura27"
-    presentation:
-      title: "Criando APIs com Rails"
-      description: ""
-      time: "--"
-  -
-    name: "Euler Neto"
-    photo: "./img/speakers/euler_neto.jpg"
-    bio: ""
-    company: "UFS"
-    plus: "+EulerNetoNgt"
-    presentation:
-      title: "Segurança no Android"
-      description: ""
-      time: "--"
-  -
     name: "Erick Mendonça"
     photo: "./img/speakers/erick_mendonca.jpg"
     bio: ""
@@ -72,15 +52,25 @@ schedule:
       description: ""
       time: "07/02"
   -
-    name: "Hugo Dória"
-    photo: "./img/speakers/hugo_doria.jpg"
+    name: "Lucas Xavier"
+    photo: "./img/speakers/lucas_xavier.jpg"
     bio: ""
-    company: "Popcode"
-    plus: "106714577233715858252"
+    company: ""
+    plus: "+LucasXavierAS"
     presentation:
-      title: "API-First: a 'Revolução Industrial' do software"
+      title: "Construindo aplicativos Android de alto desempenho"
       description: ""
-      time: "--"
+      time: "07/02"
+  -
+    name: "Breno Moura"
+    photo: "./img/speakers/breno_moura.jpg"
+    bio: ""
+    company: "Jaya Apps"
+    plus: "+BrenoMoura27"
+    presentation:
+      title: "Criando APIs com Rails"
+      description: ""
+      time: "21/02"
   -
     name: "Ítalo Marcel"
     photo: "./img/speakers/italo_marcel.jpg"
@@ -90,17 +80,27 @@ schedule:
     presentation:
       title: "Material Design"
       description: ""
-      time: "--"
+      time: "21/02"
   -
-    name: "Lucas Xavier"
-    photo: "./img/speakers/lucas_xavier.jpg"
+    name: "Euler Neto"
+    photo: "./img/speakers/euler_neto.jpg"
     bio: ""
-    company: ""
-    plus: "+LucasXavierAS"
+    company: "UFS"
+    plus: "+EulerNetoNgt"
     presentation:
-      title: "Construindo aplicativos Android de alto desempenho"
+      title: "Segurança no Android"
       description: ""
-      time: "--"
+      time: "07/03"
+  -
+    name: "Hugo Dória"
+    photo: "./img/speakers/hugo_doria.jpg"
+    bio: ""
+    company: "Popcode"
+    plus: "106714577233715858252"
+    presentation:
+      title: "API-First: a 'Revolução Industrial' do software"
+      description: ""
+      time: "07/03"
   -
     name: "Roberto Brandini"
     photo: "./img/speakers/roberto_brandini.jpg"
@@ -110,7 +110,7 @@ schedule:
     presentation:
       title: "Backend para aplicativos mobile"
       description: ""
-      time: "--"
+      time: "21/03"
 
 # List of Sponsors
 sponsors:
@@ -139,9 +139,9 @@ about_section:
    title: "Sobre"
    description: 
     - 
-      p: "O Android Jam faz parte do Google Developers Study Jams, que é uma série global de eventos para formar grupos de estudos nas comunidades. A primeira sessão da iniciativa está sendo realizada em parceria com o Udacity e seguirá o curso Android Fundamentals da plataforma"
+      p: "O GDG Aracaju convida todos os interessados na plataforma Android a estudar conosco e desenvolver aplicativos completos. Cada encontro será lotado de conteúdo e contará com palestras de profissionais convidados."
     - 
-      p: "Nós do GDG Aracaju estamos convidando todos os interessados na plataforma Android para estudar conosco e desenvolver aplicativos completos. Cada encontro será lotado de conteúdo e contará também com uma palestra de um profissional convidado."
+      p: "O Android Jam faz parte do Google Developers Study Jams, que é uma série global de eventos para formar grupos de estudos nas comunidades. A primeira sessão da iniciativa está sendo realizada em parceria com o Udacity e seguirá o curso Android Fundamentals da plataforma."
 
 # Call for papers section
 c4p_section:
@@ -182,6 +182,7 @@ location_section:
 partners_section:
    title: "Parceiros"
    show_your_logo_here: true
+   your_logo_here_link: "mailto:gdgaracaju@gmail.com"
 
 # Schedule section
 schedule_section:
@@ -199,3 +200,4 @@ speakers_section:
 sponsors_section:
    title: "Patrocinadores"
    show_your_logo_here: true
+   your_logo_here_link: "mailto:gdgaracaju@gmail.com"
