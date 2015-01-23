@@ -35,6 +35,7 @@ sections:
   sponsors: true
   partners: true
   contact: true
+  tickets: true
 
 # The entire schedule
 schedule:
@@ -44,7 +45,7 @@ schedule:
   -
     name: "Erick Mendonça"
     photo: "./img/speakers/erick_mendonca.jpg"
-    bio: ""
+    bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
     company: "UFS"
     plus: "+ErickMendonca"
     presentation:
@@ -64,7 +65,7 @@ schedule:
   -
     name: "Breno Moura"
     photo: "./img/speakers/breno_moura.jpg"
-    bio: ""
+    bio: "Entusiasta Ruby e desenvolvedor Ruby e Ruby on Rails há 2 anos, Breno atualmente desenvolve aplicações back end e apis de integração na Jaya Apps."
     company: "Jaya Apps"
     plus: "+BrenoMoura27"
     presentation:
@@ -74,7 +75,7 @@ schedule:
   -
     name: "Ítalo Marcel"
     photo: "./img/speakers/italo_marcel.jpg"
-    bio: ""
+    bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
     company: "Getinfo"
     plus: "+ItaloMarcel"
     presentation:
@@ -94,7 +95,7 @@ schedule:
   -
     name: "Hugo Dória"
     photo: "./img/speakers/hugo_doria.jpg"
-    bio: ""
+    bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos apps para dispositivos móveis, incluindo apps bancários, frameworks para conferências e força de vendas. Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
     company: "Popcode"
     plus: "106714577233715858252"
     presentation:
@@ -126,13 +127,22 @@ partners:
     logo: "./img/partners/cajuvalley.png"
     url: "https://www.facebook.com/cajuvalley"
   -
+    name: "Getinfo"
+    logo: "./img/partners/getinfo.png"
+    url: "http://getinfo.net.br/"
+  -
     name: "GDG Aracaju"
     logo: "./img/partners/gdgaracaju.png"
-    url: "https://www.gdgaracaju.com.br/"
+    url: "http://www.gdgaracaju.com.br/"
   -
     name: "DP Sistemas"
     logo: "./img/partners/dpsistemas.png"
-    url: "https://www.dpsistemas.com.br/"
+    url: "http://www2.dpsistemas.com.br/"
+  -
+    name: "Popcode"
+    logo: "./img/partners/popcode.jpg"
+    url: "http://www.popcode.com.br/"
+
 
 # About section
 about_section:
