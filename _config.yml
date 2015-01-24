@@ -31,14 +31,14 @@ sections:
   c4p: false
   location: true
   speakers: true
-  schedule: false
+  schedule: true
   sponsors: true
   partners: true
   contact: true
   tickets: true
 
-# The entire schedule
-schedule:
+# Speakers list
+speakers:
   #-
   #  name: "Check-in / Breakfast"
   #  time: "9h00"
@@ -51,7 +51,7 @@ schedule:
     presentation:
       title: "Começando o desenvolvimento de aplicativos Android"
       description: ""
-      time: "07/02"
+      time: "07/02 14h00"
   -
     name: "Lucas Xavier"
     photo: "./img/speakers/lucas_xavier.jpg"
@@ -61,7 +61,7 @@ schedule:
     presentation:
       title: "Salve o mundo deixando o seu código mais testável"
       description: ""
-      time: "07/02"
+      time: "07/02 16h30"
   -
     name: "Breno Moura"
     photo: "./img/speakers/breno_moura.jpg"
@@ -71,7 +71,7 @@ schedule:
     presentation:
       title: "Criando APIs com Rails"
       description: ""
-      time: "21/02"
+      time: "21/02 14h00"
   -
     name: "Ítalo Marcel"
     photo: "./img/speakers/italo_marcel.jpg"
@@ -81,7 +81,7 @@ schedule:
     presentation:
       title: "tema a definir"
       description: ""
-      time: "21/02"
+      time: "21/02 16h30"
   -
     name: "Euler Neto"
     photo: "./img/speakers/euler_neto.jpg"
@@ -91,7 +91,7 @@ schedule:
     presentation:
       title: "Segurança no Android"
       description: ""
-      time: "07/03"
+      time: "07/03 14h00"
   -
     name: "Hugo Dória"
     photo: "./img/speakers/hugo_doria.jpg"
@@ -101,7 +101,7 @@ schedule:
     presentation:
       title: "tema a definir"
       description: ""
-      time: "07/03"
+      time: "07/03 16h30"
   -
     name: "Roberto Brandini"
     photo: "./img/speakers/roberto_brandini.jpg"
@@ -112,6 +112,30 @@ schedule:
       title: "Backend para aplicativos mobile"
       description: ""
       time: "21/03"
+
+# Schedule
+schedule:
+  - 
+    name: "Palestra #1"
+    time: 14h00
+    description: "Primeira palestra do dia."
+  - 
+    name: "Hands-on"
+    time: 15h00
+    description: "Hora de aprender truques novos!"
+  - 
+    name: "Coffee-break"
+    time: 16h00
+    description: "Coma, beba e faça networking."
+  - 
+    name: "Palestra #2"
+    time: 16h30
+    description: "Segunda palestra do dia."
+  - 
+    name: "Pós-evento"
+    time: 17h30
+    description: "Dúvidas, conversa, networking."
+
 
 # List of Sponsors
 sponsors:
@@ -193,10 +217,10 @@ partners_section:
 # Schedule section
 schedule_section:
    title: "Programação"
-   text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-   time: "Time"
-   slot: "Slot"
-   description: "Description"
+   text: "A programação pode sofrer alterações sem avisos prévios."
+   time: "Hora"
+   slot: "Atividade"
+   description: "Descrição"
 
 # Speakers section
 speakers_section:

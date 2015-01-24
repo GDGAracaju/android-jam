@@ -1,10 +1,10 @@
 Bem vindos ao **Android Jam Sergipe**!
 
-O GDG Aracaju convida todos os interessados na plataforma Android a estudar conosco e desenvolver aplicativos completos. Cada encontro será lotado de conteúdo e contará com palestras de profissionais convidados.
+Organizado pelo [GDG Aracaju](gdgaracaju.com.br), o Android Jam é uma série de eventos durante os meses de fevereiro e março de 2015, que tem como objetivos fomentar o desenvolvimento de apps mobile, ampliar o conhecimento e a troca de informações da comunidade. Serão 7 meetups aos sábados, 5 deles presenciais e 2 via Hangouts on Air.
 
-O Android Jam faz parte do Google Developers Study Jams, que é uma série global de eventos para formar grupos de estudos nas comunidades. A primeira sessão da iniciativa está sendo realizada em parceria com o Udacity e seguirá o curso Android Fundamentals da plataforma.
+O evento faz parte do Google Developers Study Jams, que é uma série global de eventos para formar grupos de estudos nas comunidades. A primeira sessão da iniciativa está sendo realizada em parceria com o Udacity e seguirá o curso Android Fundamentals da plataforma.
 
-Haverão 7 reuniões: 5 presenciais e 2 via Hangouts. Confiram as datas: 07 e 21/02, 07, 21 e 28/03 serão os encontros presenciais. Nos dias 28/02 e 14/03 serão via Hangouts! Todos os eventos serão das 14h às 18h.
+Todos os desenvolvedores interessados na plataforma estão convidados a estudar e desenvolver apps conosco. Iniciantes terão a oportunidade de aprender na prática, enquanto os veteranos poderão aprender truques novos. Cada encontro será lotado de conteúdo e contará com palestras de profissionais convidados.
 
 **Reembolsos**
 
@@ -13,3 +13,21 @@ Se você não puder comparecer ao evento, você pode pedir reembolso até 5 dias
 **Sem fins lucrativos** 
 
 O Android Jam não possui fins lucrativos. Todo o dinheiro arrecadado será investido no coffee-break do evento.
+
+Confiram o cronograma abaixo:
+
+**[Android Jam #1](http://eventick.com.br/android-jam-sergipe-1)**: 07/02/2015
+
+**Android Jam #2**: 21/02/2015
+
+**Android Jam #3 (On Air)**: 28/02/2015
+
+**Android Jam #4**: 07/03/2015
+
+**Android Jam #5 (On Air)**: 14/03/2015
+
+**Android Jam #6**: 21/03/2015
+
+**Android Jam #7**: 28/03/2015
+
+Confira a [programação](#schedule) para conferir o formato e horários das atividades.
