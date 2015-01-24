@@ -3,9 +3,8 @@
   <!-- ABOUT -->
   <section class="about" id="about">
     <h2 class="section-title">{{site.about_section.title}}</h2>
-    {% for p in site.about_section.description %}
-    	<p>{{p.p}}</p>
-    {% endfor %}
+    {% capture about %}{% include section/about.md %}{% endcapture %}
+	{{ about | markdownify }}
   </section>
   <!-- / ABOUT -->
 

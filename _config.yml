@@ -147,17 +147,7 @@ partners:
 # About section
 about_section:
    title: "Sobre"
-   description: 
-    - 
-      p: "O GDG Aracaju convida todos os interessados na plataforma Android a estudar conosco e desenvolver aplicativos completos. Cada encontro será lotado de conteúdo e contará com palestras de profissionais convidados."
-    - 
-      p: "O Android Jam faz parte do Google Developers Study Jams, que é uma série global de eventos para formar grupos de estudos nas comunidades. A primeira sessão da iniciativa está sendo realizada em parceria com o Udacity e seguirá o curso Android Fundamentals da plataforma."
-    - 
-      p: "Haverão 7 reuniões: 5 presenciais e 2 via Hangouts. Confiram as datas: 07 e 21/02, 07, 21 e 28/03 serão os encontros presenciais. Nos dias 28/02 e 14/03 serão via Hangouts! Todos os eventos serão das 14h às 18h."
-    - 
-      p: "Reembolsos: se você não puder comparecer ao evento, você pode pedir reembolso até 5 dias antes do mesmo. Nós reembolsaremos o valor da entrada, deduzida das taxas do Eventick."
-    -
-      p: "Sem fins lucrativos: o Android Jam não possui fins lucrativos. Todo o dinheiro arrecadado será investido no coffee-break do evento."
+   description: "" #moved to ./includes/section/about.md
 
 # Call for papers section
 c4p_section:
