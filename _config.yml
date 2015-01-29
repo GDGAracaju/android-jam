@@ -9,8 +9,8 @@ conf:
   description: "GDG Aracaju Study Jam"
   date: "Fevereiro a Março/2015"
   price: "A partir de R$ 15,00"
-  address: "Av. Desembargador Maynard, 142"
-  venue: "DP Sistemas"
+  address: "Av. Ivo do Prado, 564"
+  venue: "SENAC"
   city: "Aracaju"
 
 # Site info
@@ -166,6 +166,10 @@ partners:
     name: "Popcode"
     logo: "./img/partners/popcode.jpg"
     url: "http://www.popcode.com.br/"
+  -
+    name: "SENAC"
+    logo: "./img/partners/senac.jpg"
+    url: "http://www.se.senac.br/"
 
 
 # About section
