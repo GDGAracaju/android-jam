@@ -111,7 +111,18 @@ speakers:
     presentation:
       title: "Backend para aplicativos mobile"
       description: ""
-      time: "21/03"
+      time: "21/03 14h00"
+  -
+    name: "Alexsandro Cruz"
+    photo: "./img/speakers/alexsandro_cruz.jpg"
+    bio: "Pai da Sofia, longboarder amador, guitarrista frustrado e desenvolvedor a mais tempo do que gostaria de admitir. Conceitua, formata e lidera projetos de internet, sobretudo se ligados a uma estratégia de colaboração, integração de dados e sistemas. Faz com tranqüilidade a ponte entre planejamento e criação, entre offline e online, entre design e tecnologia, entre inovação e usabilidade. Compreende o uso das tecnologias como suporte para metodologias e processos visando o aumento contínuo da eficiência e a estratégia gerencial como guia seguro para o sucesso em negócios."
+    company: "SAPIENZA Inteligência Digital"
+    plus: "+AlexSandroCruzReal"
+    presentation:
+      title: "APIs para aplicativos móveis no Azure"
+      description: ""
+      time: "28/03 14h00"
+
 
 # Schedule
 schedule:
@@ -166,6 +177,10 @@ partners:
     name: "Popcode"
     logo: "./img/partners/popcode.jpg"
     url: "http://www.popcode.com.br/"
+  -
+    name: "SAPIENZA"
+    logo: "./img/partners/sapienza.png"
+    url: "http://www.sapienzae.com.br/"
   -
     name: "SENAC"
     logo: "./img/partners/senac.jpg"
