@@ -162,6 +162,10 @@ partners:
     logo: "./img/partners/cajuvalley.png"
     url: "https://www.facebook.com/cajuvalley"
   -
+    name: "FANESE"
+    logo: "./img/partners/fanese.png"
+    url: "http://www.fanese.edu.br/"
+  -
     name: "Getinfo"
     logo: "./img/partners/getinfo.png"
     url: "http://getinfo.net.br/"
