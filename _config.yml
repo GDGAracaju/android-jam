@@ -103,6 +103,16 @@ speakers:
       description: ""
       time: "07/03 16h30"
   -
+    name: "Airton Lastori"
+    photo: "./img/speakers/airton.jpg"
+    bio: "Airton Lastori é consultor MySQL da Oracle Brasil. Possui formação em Ciência da Computação pela Universidade Federal de Itajubá e especialização em Engenharia de Software baseada em SOA pelo IBTA. Há mais de 10 anos está envolvido com diversas tecnologias Open Source relacionadas principalmente ao universo Web."
+    company: "Oracle"
+    plus: "110072119479672701296"
+    presentation:
+      title: "Desenvolvendo serviços escaláveis e de alta performance com MySQL"
+      description: "As exigências cada vez maiores de escalabilidade e performance nas aplicações Web e Mobile exigem novas estratégias no uso de bancos de dados, como por exemplo novos métodos de acesso NoSQL para MySQL. Tais métodos foram implementados recentemente e incluem APIs Java e Memcached que são uma alternativa de alto desempenho e escalável para consultas simples e que não requerem a definição de um esquema de dados rígido, mas também permitem aproveitar todas as vantagens já conhecidas de bancos de dados relacionais existentes. Nesta apresentação mostraremos os novos métodos de acesso NoSQL para MySQL Server com InnoDB e MySQL Cluster e alguns casos de uso em arquiteturas Web e Mobile."
+      time: "14/03 via Hangouts"
+  -
     name: "Roberto Brandini"
     photo: "./img/speakers/roberto_brandini.jpg"
     bio: "Desenvolvedor e Gerente de Projetos, com mais de 25 anos de experiência em levantamento de requisitos, análise, desenvolvimento, testes e implantação de sistemas. Tendo desenvolvido sistemas de alta complexidade tais como Folha de Pagamento, ERP Comercial e Industrial, SPED - Fiscal, SPED - Contábil, SPED - Contribuições, Nota Fiscal Eletrônica. Tendo pleno domínio nos três grandes paradigmas de desenvolvimento (DOS, Windows e Web) e nas principais tecnologias de mercado (.Net C#, MS SQL Server, MySQL, Postgres e Visual FoxPro). Nas horas vagas gosto muito de estudar tecnologias emergentes e inovadoras. Pai de dois filhos e sim, acredito em Aliens!"
