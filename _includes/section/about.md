@@ -16,9 +16,7 @@ O Android Jam não possui fins lucrativos. Todo o dinheiro arrecadado será inve
 
 Confiram o cronograma abaixo:
 
-**[Android Jam #1](http://eventick.com.br/android-jam-sergipe-1)**: 07/02/2015
-
-**Android Jam #2**: 21/02/2015
+**[Android Jam #2](http://eventick.com.br/android-jam-sergipe-2)**: 21/02/2015
 
 **Android Jam #3 (On Air)**: 28/02/2015
 
@@ -29,5 +27,9 @@ Confiram o cronograma abaixo:
 **Android Jam #6**: 21/03/2015
 
 **Android Jam #7**: 28/03/2015
+
+**Passados:**
+
+**[Android Jam #1](http://eventick.com.br/android-jam-sergipe-1)**: 07/02/2015. [Veja como foi!](https://plus.google.com/events/ci11ur480f52mi3278ge68velnc)
 
 Confira a [programação](#schedule) para conferir o formato e horários das atividades.

@@ -19,11 +19,11 @@ site:
   favicon: "http://www.gdgaracaju.com.br/favicon.ico"
   googleanalytics: "UA-49492619-1"
   images:
-    cover: "./img/android_garden.jpg"
+    cover: "./img/covers/android_jam_2.jpg"
     facebook: "http://android.gdgaracaju.com.br/img/studyjam_assets/01.png"
 
 subscribe_text: "Inscrições abertas!"
-subscribe_url: "http://www.eventick.com.br/android-jam-sergipe-1"
+subscribe_url: "http://www.eventick.com.br/android-jam-sergipe-2"
 
 # Active sections on the website
 sections:
