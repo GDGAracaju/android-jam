@@ -59,7 +59,7 @@ speakers:
     company: "Getinfo"
     plus: "+ItaloMarcel"
     presentation:
-      title: "tema a definir"
+      title: "Não refaça, reutilize! Trabalhando com libs no Android"
       description: ""
       time: "21/02 16h30"
   -
@@ -199,6 +199,10 @@ partners:
     name: "SENAC"
     logo: "./img/partners/senac.jpg"
     url: "http://www.se.senac.br/"
+  -
+    name: "SergipeTec"
+    logo: "./img/partners/sergipetec.png"
+    url: "http://www.sergipetec.se.gov.br/"
 
 
 # About section
