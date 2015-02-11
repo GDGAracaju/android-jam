@@ -32,4 +32,8 @@ Confiram o cronograma abaixo:
 
 **[Android Jam #1](http://eventick.com.br/android-jam-sergipe-1)**: 07/02/2015. [Veja como foi!](https://plus.google.com/events/ci11ur480f52mi3278ge68velnc)
 
+**Materiais**
+
+Todos os materiais apresentados no Android Jam estarão [disponíveis nesse link](http://goo.gl/kuLXlQ)!
+
 Confira a [programação](#schedule) para conferir o formato e horários das atividades.

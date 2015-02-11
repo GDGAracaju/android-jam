@@ -43,26 +43,6 @@ speakers:
   #  name: "Check-in / Breakfast"
   #  time: "9h00"
   -
-    name: "Erick Mendonça"
-    photo: "./img/speakers/erick_mendonca.jpg"
-    bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
-    company: "UFS"
-    plus: "+ErickMendonca"
-    presentation:
-      title: "Começando o desenvolvimento de aplicativos Android"
-      description: ""
-      time: "07/02 14h00"
-  -
-    name: "Lucas Xavier"
-    photo: "./img/speakers/lucas_xavier.jpg"
-    bio: "Lucas é um desenvolvedor com um background bastante variado. Ao mesmo tempo que ama construir apps, ele também é louco por desconstruí-los. Sua especialização em testes lhe deu um maior experiência para construção de aplicativos confiáveis."
-    company: ""
-    plus: "+LucasXavierAS"
-    presentation:
-      title: "Salve o mundo deixando o seu código mais testável"
-      description: ""
-      time: "07/02 16h30"
-  -
     name: "Breno Moura"
     photo: "./img/speakers/breno_moura.jpg"
     bio: "Entusiasta Ruby e desenvolvedor Ruby e Ruby on Rails há 2 anos, Breno atualmente desenvolve aplicações back end e apis de integração na Jaya Apps."
@@ -132,6 +112,26 @@ speakers:
       title: "APIs para aplicativos móveis no Azure"
       description: ""
       time: "28/03 14h00"
+  -
+    name: "Erick Mendonça"
+    photo: "./img/speakers/erick_mendonca.jpg"
+    bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
+    company: "UFS"
+    plus: "+ErickMendonca"
+    presentation:
+      title: "Começando o desenvolvimento de aplicativos Android"
+      description: ""
+      time: "07/02 14h00"
+  -
+    name: "Lucas Xavier"
+    photo: "./img/speakers/lucas_xavier.jpg"
+    bio: "Lucas é um desenvolvedor com um background bastante variado. Ao mesmo tempo que ama construir apps, ele também é louco por desconstruí-los. Sua especialização em testes lhe deu um maior experiência para construção de aplicativos confiáveis."
+    company: ""
+    plus: "+LucasXavierAS"
+    presentation:
+      title: "Salve o mundo deixando o seu código mais testável"
+      description: ""
+      time: "07/02 16h30"
 
 
 # Schedule
