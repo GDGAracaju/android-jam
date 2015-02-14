@@ -1,6 +1,6 @@
 Bem vindos ao **Android Jam Sergipe**!
 
-Organizado pelo [GDG Aracaju](gdgaracaju.com.br), o Android Jam é uma série de eventos durante os meses de fevereiro e março de 2015, que tem como objetivos fomentar o desenvolvimento de apps mobile, ampliar o conhecimento e a troca de informações da comunidade. Serão 7 meetups aos sábados, 5 deles presenciais e 2 via Hangouts on Air.
+Organizado pelo [GDG Aracaju](http://gdgaracaju.com.br), o Android Jam é uma série de eventos durante os meses de fevereiro e março de 2015, que tem como objetivos fomentar o desenvolvimento de apps mobile, ampliar o conhecimento e a troca de informações da comunidade. Serão 7 meetups aos sábados, 5 deles presenciais e 2 via Hangouts on Air.
 
 O evento faz parte do Google Developers Study Jams, que é uma série global de eventos para formar grupos de estudos nas comunidades. A primeira sessão da iniciativa está sendo realizada em parceria com o Udacity e seguirá o curso Android Fundamentals da plataforma.
 
