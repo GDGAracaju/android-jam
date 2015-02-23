@@ -1,4 +1,4 @@
-# Jekyll
+﻿# Jekyll
 markdown: rdiscount
 highlighter: "pygments"
 permalink: /:title.html
@@ -23,7 +23,7 @@ site:
     facebook: "http://android.gdgaracaju.com.br/img/covers/android-background.jpg"
 
 subscribe_text: "Inscrições abertas!"
-subscribe_url: "http://www.eventick.com.br/android-jam-sergipe-2"
+subscribe_url: "http://www.eventick.com.br/android-jam-sergipe-3"
 
 # Active sections on the website
 sections:
