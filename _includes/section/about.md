@@ -1,4 +1,4 @@
-Bem vindos ao **Android Jam Sergipe**!
+﻿Bem vindos ao **Android Jam Sergipe**!
 
 Organizado pelo [GDG Aracaju](http://gdgaracaju.com.br), o Android Jam é uma série de eventos durante os meses de fevereiro e março de 2015, que tem como objetivos fomentar o desenvolvimento de apps mobile, ampliar o conhecimento e a troca de informações da comunidade. Serão 7 meetups aos sábados, 5 deles presenciais e 2 via Hangouts on Air.
 
@@ -16,8 +16,6 @@ O Android Jam não possui fins lucrativos. Todo o dinheiro arrecadado será inve
 
 Confiram o cronograma abaixo:
 
-**[Android Jam #2](http://eventick.com.br/android-jam-sergipe-2)**: 21/02/2015
-
 **Android Jam #3 (On Air)**: 28/02/2015
 
 **Android Jam #4**: 07/03/2015
@@ -31,6 +29,8 @@ Confiram o cronograma abaixo:
 **Passados:**
 
 **[Android Jam #1](http://eventick.com.br/android-jam-sergipe-1)**: 07/02/2015. [Veja como foi!](https://plus.google.com/events/ci11ur480f52mi3278ge68velnc)
+
+**[Android Jam #2](http://eventick.com.br/android-jam-sergipe-2)**: 21/02/2015. [Veja como foi!](https://plus.google.com/events/c9shkfs58di37je69dtqr96s950)
 
 **Materiais**
 
