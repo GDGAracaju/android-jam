@@ -43,6 +43,16 @@ speakers:
   #  name: "Check-in / Breakfast"
   #  time: "9h00"
   -
+    name: "Erick Mendonça"
+    photo: "./img/speakers/erick_mendonca.jpg"
+    bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
+    company: "UFS"
+    plus: "+ErickMendonca"
+    presentation:
+      title: "Revisão do Android Fundamentals"
+      description: ""
+      time: "28/02 10h00 via Hangouts"
+  -
     name: "Ítalo Marcel"
     photo: "./img/speakers/italo_marcel.jpg"
     bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
@@ -51,7 +61,7 @@ speakers:
     presentation:
       title: "Suporte múltiplas telas"
       description: ""
-      time: "28/02 10h00"
+      time: "28/02 10h30 via Hangouts"
   -
     name: "Euler Neto"
     photo: "./img/speakers/euler_neto.jpg"
