@@ -23,7 +23,7 @@ site:
     facebook: "http://android.gdgaracaju.com.br/img/covers/android-background.jpg"
 
 subscribe_text: "Inscrições abertas!"
-subscribe_url: "http://goo.gl/gzHJP3"
+subscribe_url: "http://www.eventick.com.br/android-jam-sergipe-4"
 
 # Active sections on the website
 sections:
@@ -53,16 +53,6 @@ speakers:
       description: ""
       time: "28/02 10h00 via Hangouts"
   -
-    name: "Ítalo Marcel"
-    photo: "./img/speakers/italo_marcel.jpg"
-    bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
-    company: "Getinfo"
-    plus: "+ItaloMarcel"
-    presentation:
-      title: "Suporte múltiplas telas"
-      description: ""
-      time: "28/02 10h30 via Hangouts"
-  -
     name: "Euler Neto"
     photo: "./img/speakers/euler_neto.jpg"
     bio: ""
@@ -79,7 +69,7 @@ speakers:
     company: "Popcode"
     plus: "106714577233715858252"
     presentation:
-      title: "tema a definir"
+      title: "Surpresa!"
       description: ""
       time: "07/03 16h30"
   -
@@ -112,16 +102,16 @@ speakers:
       title: "APIs para aplicativos móveis no Azure"
       description: ""
       time: "28/03 14h00"
-  -
-    name: "Erick Mendonça"
-    photo: "./img/speakers/erick_mendonca.jpg"
-    bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
-    company: "UFS"
-    plus: "+ErickMendonca"
-    presentation:
-      title: "Começando o desenvolvimento de aplicativos Android"
-      description: ""
-      time: "07/02 14h00"
+#  -
+#    name: "Erick Mendonça"
+#    photo: "./img/speakers/erick_mendonca.jpg"
+#    bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
+#    company: "UFS"
+#    plus: "+ErickMendonca"
+#    presentation:
+#      title: "Começando o desenvolvimento de aplicativos Android"
+#      description: ""
+#      time: "07/02 14h00"
   -
     name: "Lucas Xavier"
     photo: "./img/speakers/lucas_xavier.jpg"
@@ -152,6 +142,16 @@ speakers:
       title: "Não refaça, reutilize! Trabalhando com libs no Android"
       description: ""
       time: "21/02 16h30"
+#  -
+#    name: "Ítalo Marcel"
+#    photo: "./img/speakers/italo_marcel.jpg"
+#    bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
+#    company: "Getinfo"
+#    plus: "+ItaloMarcel"
+#    presentation:
+#      title: "Suporte múltiplas telas"
+#      description: ""
+#      time: "28/02 10h30 via Hangouts"
 
 
 # Schedule
