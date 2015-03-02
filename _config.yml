@@ -32,7 +32,7 @@ sections:
   location: true
   speakers: true
   schedule: true
-  sponsors: true
+  sponsors: false
   partners: true
   contact: true
   tickets: true
@@ -268,7 +268,7 @@ location_section:
 # Partners section
 partners_section:
    title: "Parceiros"
-   show_your_logo_here: true
+   show_your_logo_here: false
    your_logo_here_link: "mailto:gdgaracaju@gmail.com"
 
 # Schedule section
@@ -286,5 +286,5 @@ speakers_section:
 # Sponsors section
 sponsors_section:
    title: "Patrocinadores"
-   show_your_logo_here: true
+   show_your_logo_here: false
    your_logo_here_link: "mailto:gdgaracaju@gmail.com"
