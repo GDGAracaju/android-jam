@@ -48,10 +48,24 @@ speakers:
     bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
     company: "UFS"
     plus: "+ErickMendonca"
-    presentation:
-      title: "Revisão do Android Fundamentals"
-      description: ""
-      time: "28/02 10h00 via Hangouts"
+    presentations:
+      - 
+        title: "Revisão do Android Fundamentals"
+        description: ""
+        time: "07/03 14h00"
+      - 
+        title: "Google Play Policies"
+        description: ""
+        time: "07/03 16h00"
+      - 
+        title: "Git & Github"
+        description: ""
+        time: "07/03 17h00"
+      - 
+        title: "Começando o desenvolvimento de aplicativos Android"
+        description: ""
+        time: "07/02 14h00"
+
   -
     name: "Euler Neto"
     photo: "./img/speakers/euler_neto.jpg"
@@ -61,17 +75,7 @@ speakers:
     presentation:
       title: "Segurança no Android"
       description: ""
-      time: "07/03 14h00"
-  -
-    name: "Hugo Dória"
-    photo: "./img/speakers/hugo_doria.jpg"
-    bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos apps para dispositivos móveis, incluindo apps bancários, frameworks para conferências e força de vendas. Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
-    company: "Popcode"
-    plus: "106714577233715858252"
-    presentation:
-      title: "Surpresa!"
-      description: ""
-      time: "07/03 16h30"
+      time: "07/03 14h30"
   -
     name: "Airton Lastori"
     photo: "./img/speakers/airton.jpg"
@@ -93,6 +97,16 @@ speakers:
       description: ""
       time: "21/03 14h00"
   -
+    name: "Hugo Dória"
+    photo: "./img/speakers/hugo_doria.jpg"
+    bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos apps para dispositivos móveis, incluindo apps bancários, frameworks para conferências e força de vendas. Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
+    company: "Popcode"
+    plus: "106714577233715858252"
+    presentation:
+      title: "Surpresa!"
+      description: ""
+      time: "21/03 16h30"
+  -
     name: "Alexsandro Cruz"
     photo: "./img/speakers/alexsandro_cruz.jpg"
     bio: "Pai da Sofia, longboarder amador, guitarrista frustrado e desenvolvedor a mais tempo do que gostaria de admitir. Conceitua, formata e lidera projetos de internet, sobretudo se ligados a uma estratégia de colaboração, integração de dados e sistemas. Faz com tranqüilidade a ponte entre planejamento e criação, entre offline e online, entre design e tecnologia, entre inovação e usabilidade. Compreende o uso das tecnologias como suporte para metodologias e processos visando o aumento contínuo da eficiência e a estratégia gerencial como guia seguro para o sucesso em negócios."
@@ -102,16 +116,6 @@ speakers:
       title: "APIs para aplicativos móveis no Azure"
       description: ""
       time: "28/03 14h00"
-#  -
-#    name: "Erick Mendonça"
-#    photo: "./img/speakers/erick_mendonca.jpg"
-#    bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
-#    company: "UFS"
-#    plus: "+ErickMendonca"
-#    presentation:
-#      title: "Começando o desenvolvimento de aplicativos Android"
-#      description: ""
-#      time: "07/02 14h00"
   -
     name: "Lucas Xavier"
     photo: "./img/speakers/lucas_xavier.jpg"
@@ -138,10 +142,16 @@ speakers:
     bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
     company: "Getinfo"
     plus: "+ItaloMarcel"
-    presentation:
+    presentations:
+     - 
       title: "Não refaça, reutilize! Trabalhando com libs no Android"
       description: ""
       time: "21/02 16h30"
+     - 
+      title: "Suporte múltiplas telas"
+      description: ""
+      time: "28/02 10h30 via Hangouts"
+
 #  -
 #    name: "Ítalo Marcel"
 #    photo: "./img/speakers/italo_marcel.jpg"

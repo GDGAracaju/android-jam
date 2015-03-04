@@ -15,8 +15,25 @@
             {% if speaker.presentation.time %}
               <span class="speech-time">{{ speaker.presentation.time }}</span>
             {% endif %}
-              <span> {{ speaker.presentation.title }}</span>
+              <span>{{ speaker.presentation.title }}</span>
           </h3>
+
+          <h3 class="speakers-name"><a href="http://plus.google.com/{{ speaker.plus }}" title="+{{ speaker.plus }}">+{{ speaker.name }}</a></h3>
+          <p class="speakers-bio">{{ speaker.bio }}</p>
+        </li>
+      {% endif %}
+      {% if speaker.presentations %}
+        <li class="speakers-item">
+          <span class="speaker-photo"><img class="photo" src="{{ speaker.photo }}" alt="{{ speaker.name }}" /></span>
+
+          {% for presentation in speaker.presentations %}
+            <h3 class="speech-title">
+              {% if presentation.time %}
+                <span class="speech-time">{{ presentation.time }}</span>
+              {% endif %}
+                <span>{{ presentation.title }}</span>
+            </h3>
+          {% endfor %}
 
           <h3 class="speakers-name"><a href="http://plus.google.com/{{ speaker.plus }}" title="+{{ speaker.plus }}">+{{ speaker.name }}</a></h3>
           <p class="speakers-bio">{{ speaker.bio }}</p>
