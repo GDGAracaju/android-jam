@@ -8,7 +8,7 @@ conf:
   name: "Android Jam"
   description: "GDG Aracaju Study Jam"
   date: "Fevereiro a Março/2015"
-  price: "A partir de R$ 15,00"
+  price: ""
   address: "Av. Ivo do Prado, 564"
   venue: "SENAC"
   city: "Aracaju"
@@ -35,7 +35,7 @@ sections:
   sponsors: false
   partners: true
   contact: true
-  tickets: true
+  tickets: false
 
 # Speakers list
 speakers:
