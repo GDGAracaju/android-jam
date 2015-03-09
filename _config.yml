@@ -22,8 +22,8 @@ site:
     cover: "./img/covers/android-background.jpg"
     facebook: "http://android.gdgaracaju.com.br/img/covers/android-background.jpg"
 
-subscribe_text: "Inscrições abertas!"
-subscribe_url: "http://www.eventick.com.br/android-jam-sergipe-4"
+subscribe_text: "Assista via Hangouts!"
+subscribe_url: "https://plus.google.com/events/ctunca3uoe0jhhmdcapl1je9em0"
 
 # Active sections on the website
 sections:
@@ -42,40 +42,6 @@ speakers:
   #-
   #  name: "Check-in / Breakfast"
   #  time: "9h00"
-  -
-    name: "Erick Mendonça"
-    photo: "./img/speakers/erick_mendonca.jpg"
-    bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
-    company: "UFS"
-    plus: "+ErickMendonca"
-    presentations:
-      - 
-        title: "Revisão do Android Fundamentals"
-        description: ""
-        time: "07/03 14h00"
-      - 
-        title: "Google Play Policies"
-        description: ""
-        time: "07/03 16h00"
-      - 
-        title: "Git & Github"
-        description: ""
-        time: "07/03 17h00"
-      - 
-        title: "Começando o desenvolvimento de aplicativos Android"
-        description: ""
-        time: "07/02 14h00"
-
-  -
-    name: "Euler Neto"
-    photo: "./img/speakers/euler_neto.jpg"
-    bio: ""
-    company: "UFS"
-    plus: "+EulerNetoNgt"
-    presentation:
-      title: "Segurança no Android"
-      description: ""
-      time: "07/03 14h30"
   -
     name: "Airton Lastori"
     photo: "./img/speakers/airton.jpg"
@@ -151,17 +117,40 @@ speakers:
       title: "Suporte múltiplas telas"
       description: ""
       time: "28/02 10h30 via Hangouts"
+  -
+    name: "Erick Mendonça"
+    photo: "./img/speakers/erick_mendonca.jpg"
+    bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
+    company: "UFS"
+    plus: "+ErickMendonca"
+    presentations:
+      - 
+        title: "Revisão do Android Fundamentals"
+        description: ""
+        time: "07/03 14h00"
+      - 
+        title: "Google Play Policies"
+        description: ""
+        time: "07/03 16h00"
+      - 
+        title: "Git & Github"
+        description: ""
+        time: "07/03 17h00"
+      - 
+        title: "Começando o desenvolvimento de aplicativos Android"
+        description: ""
+        time: "07/02 14h00"
 
-#  -
-#    name: "Ítalo Marcel"
-#    photo: "./img/speakers/italo_marcel.jpg"
-#    bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
-#    company: "Getinfo"
-#    plus: "+ItaloMarcel"
-#    presentation:
-#      title: "Suporte múltiplas telas"
-#      description: ""
-#      time: "28/02 10h30 via Hangouts"
+  -
+    name: "Euler Neto"
+    photo: "./img/speakers/euler_neto.jpg"
+    bio: ""
+    company: "UFS"
+    plus: "+EulerNetoNgt"
+    presentation:
+      title: "Segurança no Android"
+      description: ""
+      time: "07/03 14h30"
 
 
 # Schedule
