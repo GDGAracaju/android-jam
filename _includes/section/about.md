@@ -14,16 +14,13 @@ Se você não puder comparecer ao evento, você pode pedir reembolso até 5 dias
 
 O Android Jam não possui fins lucrativos. Todo o dinheiro arrecadado será investido no coffee-break do evento.
 
-Confiram o cronograma abaixo:
+###Cronograma
 
-
-**Android Jam #5 (On Air)**: 14/03/2015
-
-**Android Jam #6**: 21/03/2015
+**[Android Jam #6](http://www.eventick.com.br/android-jam-sergipe-6)**: 21/03/2015
 
 **Android Jam #7**: 28/03/2015
 
-**Passados:**
+####Passados:
 
 **[Android Jam #1](http://eventick.com.br/android-jam-sergipe-1)**: 07/02/2015. [Veja como foi!](https://plus.google.com/events/ci11ur480f52mi3278ge68velnc)
 
@@ -33,8 +30,8 @@ Confiram o cronograma abaixo:
 
 **[Android Jam #4](https://plus.google.com/events/c3iigf7oj1v5221evbnaa9k2mug)**: 07/03/2015. [Veja como foi!](https://plus.google.com/events/gallery/c3iigf7oj1v5221evbnaa9k2mug)
 
-**Materiais**
+**[Android Jam #5 (On Air)](https://plus.google.com/events/ctunca3uoe0jhhmdcapl1je9em0)**: 14/03/2015. [Veja como foi!](https://plus.google.com/events/gallery/ctunca3uoe0jhhmdcapl1je9em0)
 
-Todos os materiais apresentados no Android Jam estarão [disponíveis nesse link](http://goo.gl/kuLXlQ)!
+###Materiais
 
-Confira a [programação](#schedule) para conferir o formato e horários das atividades.
+Todos os materiais apresentados no Android Jam estão [disponíveis nesse link](http://goo.gl/kuLXlQ)!
