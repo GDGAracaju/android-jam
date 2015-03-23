@@ -16,9 +16,7 @@ O Android Jam não possui fins lucrativos. Todo o dinheiro arrecadado será inve
 
 ###Cronograma
 
-**[Android Jam #6](http://www.eventick.com.br/android-jam-sergipe-6)**: 21/03/2015
-
-**Android Jam #7**: 28/03/2015
+**[Android Jam #7](http://www.eventick.com.br/android-jam-sergipe-7)**: 28/03/2015
 
 ####Passados:
 
@@ -31,6 +29,8 @@ O Android Jam não possui fins lucrativos. Todo o dinheiro arrecadado será inve
 **[Android Jam #4](https://plus.google.com/events/c3iigf7oj1v5221evbnaa9k2mug)**: 07/03/2015. [Veja como foi!](https://plus.google.com/events/gallery/c3iigf7oj1v5221evbnaa9k2mug)
 
 **[Android Jam #5 (On Air)](https://plus.google.com/events/ctunca3uoe0jhhmdcapl1je9em0)**: 14/03/2015. [Veja como foi!](https://plus.google.com/events/gallery/ctunca3uoe0jhhmdcapl1je9em0)
+
+**[Android Jam #6](https://plus.google.com/events/c32htttk57gps3ttfueut57kq10)**: 21/03/2015. [Veja como foi!](https://plus.google.com/events/gallery/c32htttk57gps3ttfueut57kq10)
 
 ###Materiais
 
