@@ -212,6 +212,10 @@ partners:
     logo: "./img/partners/popcode.jpg"
     url: "http://www.popcode.com.br/"
   -
+    name: "Rede+"
+    logo: "./img/partners/redemais.png"
+    url: "http://gruporedemais.com/"
+  -
     name: "SAPIENZA"
     logo: "./img/partners/sapienza.png"
     url: "http://www.sapienzae.com.br/"
