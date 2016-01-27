@@ -5,12 +5,12 @@ permalink: /:title.html
 
 # Conference info
 conf:
-  name: "Android Jam"
-  description: "GDG Aracaju Study Jam"
-  date: "Fevereiro a Março/2015"
-  price: "A partir de R$ 15"
-  address: "Av. Ivo do Prado, 564"
-  venue: "SENAC"
+  name: "Android Jam 2"
+  description: "GDG Aracaju Study Jam 2016"
+  date: "Março a Abril/2016"
+  price: "Em breve"
+  address: ""
+  venue: ""
   city: "Aracaju"
 
 # Site info
@@ -28,9 +28,9 @@ subscribe_url: "http://site.gdgaracaju.com.br/"
 # Active sections on the website
 sections:
   about: true
-  c4p: false
-  location: true
-  speakers: true
+  c4p: true
+  location: false
+  speakers: false
   schedule: false
   sponsors: false
   partners: true
@@ -50,103 +50,6 @@ speakers:
         title: "Revisão do Android Fundamentals"
         description: ""
         time: "--"
-      - 
-        title: "Começando o desenvolvimento de aplicativos Android"
-        description: ""
-        time: "07/02 14h00"
-      - 
-        title: "Google Play Policies"
-        description: ""
-        time: "07/03 16h00"
-      - 
-        title: "Git & Github"
-        description: ""
-        time: "07/03 17h00"
-  -
-    name: "Lucas Xavier"
-    photo: "./img/speakers/lucas_xavier.jpg"
-    bio: "Lucas é um desenvolvedor com um background bastante variado. Ao mesmo tempo que ama construir apps, ele também é louco por desconstruí-los. Sua especialização em testes lhe deu um maior experiência para construção de aplicativos confiáveis."
-    company: ""
-    plus: "+LucasXavierAS"
-    presentation:
-      title: "Salve o mundo deixando o seu código mais testável"
-      description: ""
-      time: "07/02 16h30"
-  -
-    name: "Breno Moura"
-    photo: "./img/speakers/breno_moura.jpg"
-    bio: "Entusiasta Ruby e desenvolvedor Ruby e Ruby on Rails há 2 anos, Breno atualmente desenvolve aplicações back end e apis de integração na Jaya Apps."
-    company: "Jaya Apps"
-    plus: "+BrenoMoura27"
-    presentation:
-      title: "Criando APIs com Rails"
-      description: ""
-      time: "21/02 14h00"
-  -
-    name: "Ítalo Marcel"
-    photo: "./img/speakers/italo_marcel.jpg"
-    bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
-    company: "Getinfo"
-    plus: "+ItaloMarcel"
-    presentations:
-     - 
-      title: "Não refaça, reutilize! Trabalhando com libs no Android"
-      description: ""
-      time: "21/02 16h30"
-     - 
-      title: "Suporte múltiplas telas"
-      description: ""
-      time: "28/02 10h30 via Hangouts"
-  -
-    name: "Euler Neto"
-    photo: "./img/speakers/euler_neto.jpg"
-    bio: ""
-    company: "UFS"
-    plus: "+EulerNetoNgt"
-    presentation:
-      title: "Segurança no Android"
-      description: ""
-      time: "07/03 14h30"
-  -
-    name: "Airton Lastori"
-    photo: "./img/speakers/airton.jpg"
-    bio: "Airton Lastori é consultor MySQL da Oracle Brasil. Possui formação em Ciência da Computação pela Universidade Federal de Itajubá e especialização em Engenharia de Software baseada em SOA pelo IBTA. Há mais de 10 anos está envolvido com diversas tecnologias Open Source relacionadas principalmente ao universo Web."
-    company: "Oracle"
-    plus: "110072119479672701296"
-    presentation:
-      title: "Desenvolvendo serviços escaláveis e de alta performance com MySQL"
-      description: "As exigências cada vez maiores de escalabilidade e performance nas aplicações Web e Mobile exigem novas estratégias no uso de bancos de dados, como por exemplo novos métodos de acesso NoSQL para MySQL. Tais métodos foram implementados recentemente e incluem APIs Java e Memcached que são uma alternativa de alto desempenho e escalável para consultas simples e que não requerem a definição de um esquema de dados rígido, mas também permitem aproveitar todas as vantagens já conhecidas de bancos de dados relacionais existentes. Nesta apresentação mostraremos os novos métodos de acesso NoSQL para MySQL Server com InnoDB e MySQL Cluster e alguns casos de uso em arquiteturas Web e Mobile."
-      time: "14/03 via Hangouts"
-  -
-    name: "Roberto Brandini"
-    photo: "./img/speakers/roberto_brandini.jpg"
-    bio: "Desenvolvedor e Gerente de Projetos na DP Sistemas, empresa lider em desenvolvimento de aplicativos comerciais e administrativos, com mais de 25 anos de experiência em levantamento de requisitos, análise, desenvolvimento, testes e implantação de sistemas. Tendo desenvolvido sistemas de alta complexidade tais como Folha de Pagamento, ERP Comercial e Industrial, SPED - Fiscal, SPED - Contábil, SPED - Contribuições, Nota Fiscal Eletrônica. Tendo pleno domínio nos três grandes paradigmas de desenvolvimento (DOS, Windows e Web) e nas principais tecnologias de mercado (.Net C#, MS SQL Server, MySQL, Postgres e Visual FoxPro). Nas horas vagas gosto muito de estudar tecnologias emergentes e inovadoras. Casado, Pai de dois filhos."
-    company: "DP Sistemas"
-    plus: "+RobertoBrandini"
-    presentation:
-      title: "Backend para aplicativos mobile"
-      description: ""
-      time: "21/03 14h00"
-  -
-    name: "Hugo Dória"
-    photo: "./img/speakers/hugo_doria.jpg"
-    bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos apps para dispositivos móveis, incluindo apps bancários, frameworks para conferências e força de vendas. Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
-    company: "Popcode"
-    plus: "106714577233715858252"
-    presentation:
-      title: "Como começar sua empresa de desenvolvimento mobile"
-      description: ""
-      time: "21/03 16h30"
-  -
-    name: "Alexsandro Cruz"
-    photo: "./img/speakers/alexsandro_cruz.jpg"
-    bio: "Pai da Sofia, longboarder amador, guitarrista frustrado e desenvolvedor a mais tempo do que gostaria de admitir. Conceitua, formata e lidera projetos de internet, sobretudo se ligados a uma estratégia de colaboração, integração de dados e sistemas. Faz com tranqüilidade a ponte entre planejamento e criação, entre offline e online, entre design e tecnologia, entre inovação e usabilidade. Compreende o uso das tecnologias como suporte para metodologias e processos visando o aumento contínuo da eficiência e a estratégia gerencial como guia seguro para o sucesso em negócios."
-    company: "SAPIENZA Inteligência Digital"
-    plus: "+AlexSandroCruzReal"
-    presentation:
-      title: "APIs para aplicativos móveis no Azure"
-      description: ""
-      time: "28/03 14h00"
 
 # Schedule
 schedule:
@@ -186,10 +89,6 @@ partners:
     logo: "./img/partners/cajuvalley.png"
     url: "https://www.facebook.com/cajuvalley"
   -
-    name: "FANESE"
-    logo: "./img/partners/fanese.png"
-    url: "http://www.fanese.edu.br/"
-  -
     name: "Getinfo"
     logo: "./img/partners/getinfo.png"
     url: "http://getinfo.net.br/"
@@ -201,26 +100,6 @@ partners:
     name: "DP Sistemas"
     logo: "./img/partners/dpsistemas.png"
     url: "http://www2.dpsistemas.com.br/"
-  -
-    name: "Popcode"
-    logo: "./img/partners/popcode.jpg"
-    url: "http://www.popcode.com.br/"
-  -
-    name: "Rede+"
-    logo: "./img/partners/redemais.png"
-    url: "http://gruporedemais.com/"
-  -
-    name: "SAPIENZA"
-    logo: "./img/partners/sapienza.png"
-    url: "http://www.sapienzae.com.br/"
-  -
-    name: "SENAC"
-    logo: "./img/partners/senac.jpg"
-    url: "http://www.se.senac.br/"
-  -
-    name: "SergipeTec"
-    logo: "./img/partners/sergipetec.png"
-    url: "http://www.sergipetec.se.gov.br/"
 
 
 # About section
@@ -231,11 +110,11 @@ about_section:
 # Call for papers section
 c4p_section:
    title: "Call for papers"
-   text: " consequat."
-   c4p_url: "http://call4paperz.com"
-   c4p_caption: "Submit"
-   c4p_rules_url: "http://call4paperz.com"
-   c4p_rules_caption: "Read the rules."
+   text: "Se você tem interesse em contribuir com a comunidade nessa jornada, faça uma proposta :) Nós estamos interessados em testes, Firebase, aplicativos híbridos, criação de APIs, backend,, além de conteúdo sobre desenvolvimento Android."
+   c4p_url: "http://goo.gl/forms/SCg7LyBTi7"
+   c4p_caption: "Preencha o form!"
+   c4p_rules_url: ""
+   c4p_rules_caption: ""
 
 # Contact section
 contact_section:
