@@ -1,6 +1,6 @@
 ﻿# Jekyll
 markdown: rdiscount
-highlighter: "pygments"
+highlighter: "rouge"
 permalink: /:title.html
 
 # Conference info
