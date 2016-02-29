@@ -1,16 +1,13 @@
-<a href="https://github.com/maurogeorge/conf_boilerplate_ruby"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 11;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png" alt="Fork me on GitHub"></a>
-
-<!-- HEADER -->
-<header class="header" style="background-image: url({{ site.site.images.cover }})">
-  <div class="wrapper">
-    <h1 class="logo-name"><a class="logo-link" href="#" title="{{ site.conf.name }}">{{ site.conf.name }}</a></h1>
-    <h2 class="tagline">{{ site.conf.date }}, {{ site.conf.venue }}, {{ site.conf.city }}</h2>
-    <div class="call-action-area">
-      <span class="price">{{ site.conf.price }}</span>
-       <a href="{{site.subscribe_url}}" class="call-action-link" title="{{site.subscribe_text}}">{{site.subscribe_text}}</a>
-    </div>
-  </div>
-</header>
-<!--  / HEADER -->
-
-<hr />
+<section class="main" id="home">
+	<div class="container">
+	    <div class="starter-template">
+	        <img src="img/io-extended-horz.png" class="coverzao" />
+	        <p class="lead">{{ site.conf.date }}</p>
+	        <a id="hey-yo" target="_blank" class="btn btn-danger btn-lg" href="{{ site.subscribe_url }}">{{ site.subscribe_text }}</a>
+	        <a id="hey-yo" target="_blank" class="btn btn-danger btn-lg" href="mailto:gdgaracaju@gmail.com">Patrocine</a>
+	        <br/>
+	        <br/>
+	        <br/>
+	    </div>
+	</div>
+</section>

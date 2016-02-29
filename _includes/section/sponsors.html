@@ -1,24 +1,43 @@
 {% if site.sections.sponsors %}
 
-  <!-- SPONSORS -->
-  <section class="sponsors" id="sponsors">
-    <h2 class="section-title">{{site.sponsors_section.title}}</h2>
-    <ul class="sponsors-list">
+<section class='organizacao' id='organizacao'>
+    <div class='container'>
+        <h2>Organização</h2>
+        <div class='col-sm-4'>
+            <div class='card'>
+                <a href="http://gdgaracaju.com.br" target="_blank">
+                    <img src="img/partners/gdgaracaju.png" alt="GDG Aracaju" class="img-responsive friend-logo " />
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
 
-    {% for sponsor in site.sponsors %}
-      <li class="sponsor-item">
-        <a class="sponsor-logo sponsor-link" href="{{ sponsor.url }}"><img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" class="photo" /></a>
-      </li>
-    {% endfor %}
+<section class="patrocinadores" id="patrocinadores">
+    <div class="container">
 
-    {% if site.sponsors_section.show_your_logo_here %}
-      <li class="sponsor-item">
-        <a class="sponsor-logo sponsor-link sponsor-call" href="{{ site.sponsors_section.your_logo_here_link }}"><img src="img/your-logo.jpg" alt="your logo" class="photo" /></a>
-      </li>
-    {% endif %}
-    
-    </ul>
-  </section>
-  <!-- / SPONSORS -->
+        <h2>{{site.sponsors_section.title}}</h2>
 
+        {% for sponsor in site.sponsors %}
+        <div class="col-sm-4">
+            <div class="card">
+                <a href="{{ sponsor.url }}" target="_blank">
+                    <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" class="friend-logo" />
+                </a>
+            </div>
+        </div>
+        {% endfor %}
+
+        <div class="col-sm-4">
+            <div class="card">
+                <a href="mailto:gdgaracaju@gmail.com" target="_blank">
+                    <img src="img/partners/seja.png" alt="Seja um Patrocinador" class="img-responsive friend-logo" />
+                </a>
+            </div>
+        </div>
+
+
+
+    </div>
+</section>
 {% endif %}

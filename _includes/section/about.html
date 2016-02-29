@@ -1,11 +1,3 @@
-{% if site.sections.about %}
-
-  <!-- ABOUT -->
-  <section class="about" id="about">
-    <h2 class="section-title">{{site.about_section.title}}</h2>
-    {% capture about %}{% include section/about.md %}{% endcapture %}
-	{{ about | markdownify }}
-  </section>
-  <!-- / ABOUT -->
-
-{% endif %}
+<section class="sobre container" id="sobre">
+    <p>{{ site.about_section.description }}</p>
+</section>

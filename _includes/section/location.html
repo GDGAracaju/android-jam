@@ -1,15 +1,24 @@
 {% if site.sections.location %}
 
-  <!-- LOCATION -->
-  <section class="location" id="location">
-    <h2 class="section-title">{{site.location_section.title}}</h2>
+<section class="localizacao" id="localizacao">
 
-    {% if site.conf.address != '' %}
-      <p>{{ site.conf.address }}</p>
-      <div id="map-canvas" class="location-area" data-address="{{ site.conf.address }}"></div>
-    {% endif %}
+<div id="maplayer" class="maplayer"></div>
 
-  </section>
-  <!-- / LOCATION -->
+<div class="content-wrapper">
+    <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 text-left card loc-bx">
+        <div class="pull-left">
+            <h2>{{site.location_section.title}}</h2>
+            <ul class='list-unstyled'>
+                <li><strong>{{ site.conf.venue }}</strong></li>
+                <li>{{ site.conf.address }}
+                </li>
+                <li>{{ site.conf.city }}</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div style="clear:both"></div>
+
+</section>
 
 {% endif %}

@@ -8,10 +8,10 @@ conf:
   name: "Android Jam 2"
   description: "GDG Aracaju Study Jam 2016"
   date: "Março a Abril/2016"
-  price: "Em breve"
-  address: ""
-  venue: ""
-  city: "Aracaju"
+  price: "Gratuito!"
+  address: "Travessa Sargento Duque, 85 - Bairro Industrial"
+  venue: "FANESE - Faculdade de Administração e Negócios de Sergipe"
+  city: "Aracaju, Sergipe"
 
 # Site info
 site:
@@ -22,19 +22,19 @@ site:
     cover: "./img/covers/android-background.jpg"
     facebook: "http://android.gdgaracaju.com.br/img/covers/android-background.jpg"
 
-subscribe_text: "Acesse o GDG Aracaju"
-subscribe_url: "http://site.gdgaracaju.com.br/"
+subscribe_text: "Inscreva-se no Meetup!"
+subscribe_url: "http://www.meetup.com/pt-BR/GDG-Aracaju/events/228405725/"
 
 # Active sections on the website
 sections:
   about: true
   c4p: true
-  location: false
+  location: true
   speakers: false
-  schedule: false
-  sponsors: false
+  schedule: true
+  sponsors: true
   partners: true
-  contact: true
+  contact: false
   tickets: false
 
 # Speakers list
@@ -42,45 +42,94 @@ speakers:
   -
     name: "Erick Mendonça"
     photo: "./img/speakers/erick_mendonca.jpg"
+    url: "+ErickMendonca"
     bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
     company: "UFS"
-    plus: "+ErickMendonca"
-    presentations:
-      - 
-        title: "Revisão do Android Fundamentals"
-        description: ""
-        time: "--"
 
 # Schedule
 schedule:
   - 
-    name: "Android Fundamentals Review"
-    time: 14h00
-    description: "Revisão do conteúdo do curso Android Fundamentals"
+    day: "1203"
+    name: "12/03 Abertura"
+    description: "Abertura do Android Jam: palestras, inscrição para grupo de estudos e confraternização!"
+    agenda:
+      - 
+        name: "Abertura"
+        time: 
+          start: "14:00"
+          end: "14:30"
+        description: "Abertura do evento, credenciamento e apresentação do Android Study Jams 2016"
+        speaker:
+          name: "GDG Aracaju"
+          url: "http://site.gdgaracaju.com.br/"
+          photo: "./img/gdg.png"
+      - 
+        name: "Internet das Coisas e os Smartphones"
+        time: 
+          start: "14:30"
+          end: "15:30"
+        description: "Nesta palestra serão apresentados os conceitos de Internet das Coisas, algumas aplicações que podem se beneficiar com a Internet das Coisas e onde os smartphones podem se encaixar nessa aplicações."
+        speaker:
+          name: "Fernando Mendonça"
+          url: "https://github.com/fernandomalmeida"
+          photo: "./img/speakers/fernando.jpg"
+      - 
+        name: "Coffee-break"
+        time: 
+          start: "15:30"
+          end: "16:00"
+        description: "Pausa para o lanche, café e bate-papo"
+        speaker:
+          name: "GDG Aracaju"
+          url: "http://site.gdgaracaju.com.br/"
+          photo: "./img/gdg.png"
+      - 
+        name: "Folkes: Minerando dados no Instagram"
+        time: 
+          start: "16:00"
+          end: "17:00"
+        description: "Muita gente, mas muita gente mesmo tem conta em alguma rede social e o Instagram é uma das favoritas. Mas será que as pessoas sabem do que os dados que elas fornecem para a rede social de fotos é capaz de fazer? Nesse talk vou mostrar um pouco sobre como é legal manipular esses dados e quais informações eles podem nos retornar, por exemplo: o melhor horário de postar uma foto, o melhor dia da semana, quem mais curte suas fotos, se a suas fotos com filtros tem mais likes do que as sem filtros e por ai vamos :)"
+        speaker:
+          name: "Breno Moura"
+          url: "https://github.com/basmoura"
+          photo: "./img/speakers/breno_moura.jpg"
+      - 
+        name: "Em breve..."
+        time: 
+          start: "17:00"
+          end: "18:00"
+        description: ""
+        speaker:
+          name: "GDG Aracaju"
+          url: "http://site.gdgaracaju.com.br/"
+          photo: "./img/gdg.png"
   - 
-    name: "Palestra #1"
-    time: 14h30
-    description: "Primeira palestra do dia."
-  - 
-    name: "Coffee-break"
-    time: 16h00
-    description: "Coma, beba e faça networking."
-  - 
-    name: "Palestra #2"
-    time: 16h30
-    description: "Segunda palestra do dia."
-  - 
-    name: "Pós-evento"
-    time: 18h00
-    description: "Dúvidas, conversa, networking."
-
+    day: "1903"
+    name: "19/03 a 16/04"
+    description: "Em breve mais informações :)"
+    agenda:
+      - 
+        name: "Android Study Jams"
+        time: 
+          start: "13:00"
+          end: "18:00"
+        description: ""
+        speaker:
+          name: ""
+          url: ""
+          photo: "./img/bigheads/photo.png"
 
 # List of Sponsors
 sponsors:
-  #-
-  #  name: "Eventick"
-  #  logo: "http://f.cl.ly/items/1U3p0Z0e2w0I1i3z1X22/Image%202012.09.25%203:00:58%20PM.png"
-  #  url: "http://eventick.com.br"
+  -
+    name: "Google Developers"
+    logo: "./img/partners/gd.jpg"
+    url: "http://developers.google.com/"
+  -
+    name: "Getinfo"
+    logo: "./img/partners/getinfo.png"
+    url: "http://getinfo.net.br/"
+
 
 # List of Partners
 partners:
@@ -89,29 +138,25 @@ partners:
     logo: "./img/partners/cajuvalley.png"
     url: "https://www.facebook.com/cajuvalley"
   -
-    name: "Getinfo"
-    logo: "./img/partners/getinfo.png"
-    url: "http://getinfo.net.br/"
-  -
-    name: "GDG Aracaju"
-    logo: "./img/partners/gdgaracaju.png"
-    url: "http://www.gdgaracaju.com.br/"
-  -
     name: "DP Sistemas"
     logo: "./img/partners/dpsistemas.png"
     url: "http://www2.dpsistemas.com.br/"
+  -
+    name: "Fanese"
+    logo: "./img/partners/fanese.png"
+    url: "http://portal.fanese.edu.br/"
 
 
 # About section
 about_section:
    title: "Sobre"
-   description: "" #moved to ./includes/section/about.md
+   description: "A segunda temporada do Android Jam está chegando! Nesse ano, teremos um foco maior em pôr a mão na massa e guiar os iniciantes a criar seu primeiro aplicativo Android!"
 
 # Call for papers section
 c4p_section:
    title: "Call for papers"
-   text: "Se você tem interesse em contribuir com a comunidade nessa jornada, faça uma proposta :) Nós estamos interessados em testes, Firebase, aplicativos híbridos, criação de APIs, backend,, além de conteúdo sobre desenvolvimento Android."
-   c4p_url: "http://goo.gl/forms/SCg7LyBTi7"
+   text: "Se você tem interesse em contribuir com a comunidade nessa jornada, faça uma proposta :) Nós estamos interessados em testes, Firebase, aplicativos híbridos, criação de APIs, backend, além de conteúdo sobre desenvolvimento Android."
+   c4p_url: "http://goo.gl/forms/Wbcc4OQfgB"
    c4p_caption: "Preencha o form!"
    c4p_rules_url: ""
    c4p_rules_caption: ""

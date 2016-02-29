@@ -1,24 +1,18 @@
 {% if site.sections.partners %}
 
-  <!-- PARTNERS -->
-  <section class="partners" id="partners">
-    <h2 class="section-title">{{site.partners_section.title}}</h2>
-    <ul class="partners-list">
+<section class="parceiros" id="parceiros">
+    <div class="container">
+        <h2>{{site.partners_section.title}}</h2>
+        {% for partner in site.partners %}
+        <div class="col-sm-4">
+            <div class="card">
+                <a href="{{ partner.url }}" target="_blank">
+                    <img src="{{ partner.logo }}" alt="{{ partner.name }}" class="friend-logo " />
+                </a>
+            </div>
+        </div>
+        {% endfor %}
 
-    {% for partner in site.partners %}
-      <li class="partner-item">
-        <a class="partner-logo partner-link" href="{{ partner.url }}"><img src="{{ partner.logo }}" alt="{{ partner.name }}" class="photo" /></a>
-      </li>
-    {% endfor %}
-
-    {% if site.partners_section.show_your_logo_here %}
-      <li class="partner-item">
-        <a class="partner-logo partner-link partner-call" href="{{ site.partners_section.your_logo_here_link }}"><img src="img/your-logo.jpg" alt="your logo" class="photo" /></a>
-      </li>
-    {% endif %}
-    
-    </ul>
-  </section>
-  <!-- / PARTNERS -->
-
+    </div>
+</section>
 {% endif %}
