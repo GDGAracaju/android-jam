@@ -15,6 +15,7 @@ conf:
 
 # Site info
 site:
+  author: "GDG Aracaju"
   url: "http://android.gdgaracaju.com.br"
   favicon: "http://www.gdgaracaju.com.br/favicon.ico"
   googleanalytics: "UA-49492619-1"
