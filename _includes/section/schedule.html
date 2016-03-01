@@ -17,10 +17,10 @@
 
                     {% for slot in day.agenda %}
                     <div class="presentation-gem row">
-                        <div class="col-sm-1 col-hour">
+                        <div class="col-sm-2 col-hour">
                             <span class="gem-hour">{{ slot.time.start }}<br/><span>{{ slot.time.end }}</span></span>
                         </div>
-                        <div class="col-sm-9">
+                        <div class="col-sm-8">
                             <div class="presentation-desc">
                                 <h3>{{ slot.name }}</h3>
                                 <div class="sub"><a href="{{ slot.speaker.url }}">{{ slot.speaker.name }}</a>
@@ -32,7 +32,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-1  col-sm-offset-1 hidden-xs">
+                        <div class="col-sm-2 hidden-xs">
                             <a href="{{ slot.speaker.url }}" target="_blank"><img src="{{ slot.speaker.photo }}" class="img-responsive" />
                             </a>
                         </div>
