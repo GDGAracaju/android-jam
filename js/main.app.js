@@ -2,10 +2,10 @@ var map;
 
 var geoPoint = {
   lat: -10.9002136,
-  lng: -37.0574635, 
+  lng: -37.0574635,
 };
 
-function initialize_map() 
+function initialize_map()
 {
   var mapOptions = {
     center: geoPoint,
@@ -71,10 +71,10 @@ function init() {
             mustShake = true
         } else if (distanceY < shrinkOn && mustShake==true) {
             document.getElementById("logo-evento").src = "img/logo.png";
-          $('.navbar').animate({'backgroundColor':'#00BCD4', boxShadow : "0 0 0px 0px rgba(100,100,200,0.4)"}, 600)
+          $('.navbar').animate({'backgroundColor':'#388E3C', boxShadow : "0 0 0px 0px rgba(100,100,200,0.4)"}, 600)
           $('.navbar-nav>li>a ').animate({'color':'#FFFFFF'}, 300)
           mustShake = false;
-            
+
         }
     });
 }
@@ -94,4 +94,3 @@ $("#main-nav ul li a[href^='#']").on('click', function(e) {
      });
 
 });
-

@@ -1,8 +1,13 @@
+.card-space {
+  position: relative;
+  margin-bottom: 48px;
+  max-width: 860px;
+}
+
 body {
     padding-top: 50px;
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
-    background-color: #CFD8DC;
     font-size: 21px;
     position: relative;
 }
@@ -60,16 +65,16 @@ a:visited {
 }
 
 a.btn-danger {
-    background: #008094;
-    color: #00E5FF;
+    background: #388E3C;
+    color: #FFFFFF;
     border: 0;
     border-radius: 3px;
     font-weight: 400;
 }
 
 a.btn-danger:hover {
-    background: #00E5FF;
-    color: #008094;
+    background: #CDDC39;
+    color: #212121;
 }
 /*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 *
@@ -82,7 +87,7 @@ a.btn-danger:hover {
 }
 
 .navbar {
-    background-color: #00BCD4;
+    background-color: #388E3C;
     border-bottom: none;
     font-size: 32px;
     box-shadow: 0 0 0px #000000;
@@ -194,7 +199,7 @@ section h2 {
 }
 
 section.main {
-    background-color: #00BCD4;
+    background-color: #4CAF50;
     color: #FFFFFF;
     font-weight: 100;
 }
@@ -283,6 +288,10 @@ section.main {
 
 .img-responsive {
     border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    max-width: 150px;
+    max-height: 150px;
 }
 
 .sala-el {
@@ -325,8 +334,7 @@ section.main {
 /*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*/
 
 .localizacao {
-    border-top: 4px solid #455A64;
-    background-color: #455A64;
+    background-color: #CDDC39;
     padding: 0 0 60px;
     overflow: hidden;
     min-height: 350px;
@@ -373,7 +381,7 @@ section.main {
 
 .organizacao {
     color: #FFFFFF;
-    background-color: #455A64;
+    background-color: #CDDC39;
     min-height: 330px;
     padding-bottom: 44px;
 }
@@ -397,7 +405,7 @@ section.main {
 
 .patrocinadores {
     color: #FFFFFF;
-    background-color: #00BCD4;
+    background-color: #4CAF50;
     min-height: 330px;
     padding-bottom: 44px;
 }
