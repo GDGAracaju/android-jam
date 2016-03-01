@@ -2,19 +2,13 @@
 <section class="agenda" id="palestras">
 
     <div class="container">
-
-        <div id="tab-container" class='tab-container'>
-            <ul class='etabs'>
-                {% for day in site.schedule %}
-                  <li class='tab'><a href="#{{day.day}}">{{day.name}}</a>
-                  </li>
-                {% endfor %}
-            </ul>
+        <div>
             <div class='panel-container'>
                 {% for day in site.schedule %}
                 <div id="{{day.day}}">
-                    <h2>{{ day.description }}</h2>
-
+                    <h1>{{ day.name }}</h1>
+                    <span>{{ day.description }}</span>
+                    <p>&nbsp;</p>
                     {% for slot in day.agenda %}
                     <div class="presentation-gem row">
                         <div class="col-sm-2 col-hour">

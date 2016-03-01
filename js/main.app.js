@@ -1,10 +1,5 @@
 var map;
 
-var geoPoint = {
-  lat: -10.9002136,
-  lng: -37.0574635,
-};
-
 function initialize_map()
 {
   var mapOptions = {
