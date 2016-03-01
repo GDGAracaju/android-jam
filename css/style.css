@@ -456,8 +456,15 @@ footer h1 {
 
 @media (min-width: 992px) {
     .navbar-brand img {
-        width: 380px;
+        width: 210px;
+        margin-top: 18px;
     }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1020px !important;
+  }
 }
 
 .img-grayscale:hover {
