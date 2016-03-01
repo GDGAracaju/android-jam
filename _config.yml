@@ -19,8 +19,8 @@ site:
   favicon: "http://www.gdgaracaju.com.br/favicon.ico"
   googleanalytics: "UA-49492619-1"
   images:
-    cover: "./img/covers/android-background.jpg"
-    facebook: "http://android.gdgaracaju.com.br/img/covers/android-background.jpg"
+    cover: "./img/io-extended-horz.jpg"
+    facebook: "http://android.gdgaracaju.com.br/img/io-extended-horz.jpg"
 
 subscribe_text: "Inscreva-se no Meetup!"
 subscribe_url: "http://www.meetup.com/pt-BR/GDG-Aracaju/events/228405725/"
