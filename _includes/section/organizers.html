@@ -1,0 +1,17 @@
+
+  <!-- Organizers -->
+<section class='organizacao' id='organizacao'>
+  <div class='container'>
+      <h2>Organizadores</h2>
+      {% for organizer in site.organizers %}
+      <div class='col-sm-4'>
+          <div class='card'>
+              <a href="{{ organizer.url }}" target="_blank">
+                  <img src="{{ organizer.photo }}" alt="{{ organizer.name }}" class="img-responsive friend-logo" />
+              </a>
+          </div>
+      </div>
+      {% endfor %}
+  </div>
+</section>
+  <!-- / SPEAKERS -->

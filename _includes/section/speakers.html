@@ -1,48 +1,20 @@
 {% if site.sections.speakers %}
 
   <!-- SPEAKERS -->
-  <section class="speakers" id="speakers">
-
-    <h2 class="section-title">{{site.speakers_section.title}}</h2>
-
-    <ul class="speakers-list">
-    {% for speaker in site.speakers %}
-      {% if speaker.presentation %}
-        <li class="speakers-item">
-          <span class="speaker-photo"><img class="photo" src="{{ speaker.photo }}" alt="{{ speaker.name }}" /></span>
-
-          <h3 class="speech-title">
-            {% if speaker.presentation.time %}
-              <span class="speech-time">{{ speaker.presentation.time }}</span>
-            {% endif %}
-              <span>{{ speaker.presentation.title }}</span>
-          </h3>
-
-          <h3 class="speakers-name"><a href="http://plus.google.com/{{ speaker.plus }}" title="+{{ speaker.plus }}">+{{ speaker.name }}</a></h3>
-          <p class="speakers-bio">{{ speaker.bio }}</p>
-        </li>
-      {% endif %}
-      {% if speaker.presentations %}
-        <li class="speakers-item">
-          <span class="speaker-photo"><img class="photo" src="{{ speaker.photo }}" alt="{{ speaker.name }}" /></span>
-
-          {% for presentation in speaker.presentations %}
-            <h3 class="speech-title">
-              {% if presentation.time %}
-                <span class="speech-time">{{ presentation.time }}</span>
-              {% endif %}
-                <span>{{ presentation.title }}</span>
-            </h3>
-          {% endfor %}
-
-          <h3 class="speakers-name"><a href="http://plus.google.com/{{ speaker.plus }}" title="+{{ speaker.plus }}">+{{ speaker.name }}</a></h3>
-          <p class="speakers-bio">{{ speaker.bio }}</p>
-        </li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-
-  </section>
+<section class='palestrantes' id='palestrantes'>
+  <div class='container'>
+      <h2>Palestrantes</h2>
+      {% for speaker in site.speakers %}
+      <div class='col-sm-4'>
+          <div class='card'>
+              <a href="{{ speaker.url }}" target="_blank">
+                  <img src="{{ speaker.photo }}" alt="{{ speaker.name }}" class="img-responsive friend-logo" />
+              </a>
+          </div>
+      </div>
+      {% endfor %}
+  </div>
+</section>
   <!-- / SPEAKERS -->
 
 {% endif %}

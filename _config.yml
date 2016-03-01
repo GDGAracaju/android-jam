@@ -30,21 +30,83 @@ sections:
   about: true
   c4p: true
   location: true
-  speakers: false
+  speakers: true
   schedule: true
   sponsors: true
   partners: true
   contact: false
   tickets: false
 
-# Speakers list
-speakers:
-  -
+# Organizers list
+organizers:
+  - 
+    name: "GDG Aracaju"
+    photo: "./img/partners/gdgaracaju.png"
+    url: "http://site.gdgaracaju.com.br/"
+    bio: ""
+    company: ""
+  - 
     name: "Erick Mendonça"
     photo: "./img/speakers/erick_mendonca.jpg"
-    url: "+ErickMendonca"
+    url: "http://github.com/erickmendonca"
     bio: "Formando na Universidade Federal de Sergipe e possui experiência como desenvolvedor e analista de sistemas. Co-organizador do Google Developer Group Aracaju, busca compartilhar conhecimento e aperfeiçoar a comunidade local de desenvolvedores e empreendedores através de eventos técnicos e encontros descontraídos para incentivar o crescimento e a empatia da comunidade local."
     company: "UFS"
+  - 
+    name: "Fernando Mendonça"
+    photo: "./img/speakers/fernando.jpg"
+    url: "http://github.com/erickmendonca"
+    bio: ""
+    company: ""
+  - 
+    name: "Ítalo Marcel"
+    photo: "./img/speakers/italo_marcel.jpg"
+    url: "http://github.com/erickmendonca"
+    bio: ""
+    company: ""
+  - 
+    name: "Raphael Pantaleão"
+    photo: "./img/speakers/raphael.jpg"
+    url: "http://github.com/raphaelpanta"
+    bio: ""
+    company: ""
+  - 
+    name: "Roberto Brandini"
+    photo: "./img/speakers/roberto_brandini.jpg"
+    url: "https://www.facebook.com/roberto.brandini"
+    bio: ""
+    company: ""
+
+# Speakers list
+speakers:
+  - 
+    name: "Breno Moura"
+    url: "https://github.com/basmoura"
+    photo: "./img/speakers/breno_moura.jpg"
+  - 
+    name: "Euler Neto"
+    photo: "./img/speakers/euler_neto.jpg"
+    url: ""
+  - 
+    name: "Fernando Mendonça"
+    url: "https://github.com/fernandomalmeida"
+    photo: "./img/speakers/fernando.jpg"
+  - 
+    name: "Hugo Dória"
+    photo: "./img/speakers/hugo_doria.jpg"
+    url: ""
+  - 
+    name: "Ítalo Marcel"
+    photo: "./img/speakers/italo_marcel.jpg"
+    url: ""
+  - 
+    name: "Lucas Xavier"
+    photo: "./img/speakers/lucas_xavier.jpg"
+    url: ""
+  - 
+    name: "Ygor César"
+    photo: "./img/speakers/ygor.jpg"
+    url: ""
+    
 
 # Schedule
 schedule:

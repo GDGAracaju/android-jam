@@ -288,10 +288,13 @@ section.main {
 
 .img-responsive {
     border-radius: 100%;
-    width: 100px;
-    height: 100px;
-    max-width: 150px;
-    max-height: 150px;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.sponsors-partners {
+    max-width: 200px;
+    max-height: 200px;
 }
 
 .sala-el {
@@ -381,7 +384,14 @@ section.main {
 
 .organizacao {
     color: #FFFFFF;
-    background-color: #CDDC39;
+    background-color: #39DC71;
+    min-height: 330px;
+    padding-bottom: 44px;
+}
+
+.palestrantes {
+    color: #FFFFFF;
+    background-color: #1C6D38;
     min-height: 330px;
     padding-bottom: 44px;
 }
