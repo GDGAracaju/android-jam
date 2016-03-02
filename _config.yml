@@ -94,7 +94,7 @@ speakers:
   - 
     name: "Hugo Dória"
     photo: "./img/speakers/hugo_doria.jpg"
-    url: ""
+    url: "https://github.com/hdoria"
   - 
     name: "Ítalo Marcel"
     photo: "./img/speakers/italo_marcel.jpg"
@@ -163,9 +163,9 @@ schedule:
           end: "18:00"
         description: ""
         speaker:
-          name: "GDG Aracaju"
-          url: "http://site.gdgaracaju.com.br/"
-          photo: "./img/gdg.png"
+          name: "Hugo Dória"
+          photo: "./img/speakers/hugo_doria.jpg"
+          url: "https://github.com/hdoria"
   - 
     day: "1903"
     name: "19/03 a 16/04"
