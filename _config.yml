@@ -157,11 +157,11 @@ schedule:
           url: "https://github.com/basmoura"
           photo: "./img/speakers/breno_moura.jpg"
       - 
-        name: "Em breve..."
+        name: "Como a Popcode constrói seus apps - Erros e Acertos"
         time: 
           start: "17:00"
           end: "18:00"
-        description: ""
+        description: "Veja como foi a nossa experiência construindo aplicativos: como trabalhamos, como atender 1 milhão de usuários e dicas do que fazer (e não fazer) na sua startup."
         speaker:
           name: "Hugo Dória"
           photo: "./img/speakers/hugo_doria.jpg"
@@ -208,6 +208,11 @@ partners:
     name: "Fanese"
     logo: "./img/partners/fanese.png"
     url: "http://portal.fanese.edu.br/"
+  -
+    name: "Popcode"
+    logo: "./img/partners/popcode.png"
+    url: "http://www.popcode.com.br/"
+
 
 
 # About section
