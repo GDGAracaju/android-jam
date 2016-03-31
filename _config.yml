@@ -111,25 +111,11 @@ speakers:
 
 # Schedule
 schedule:
-  - 
-    day: "1903"
-    name: "19/03 a 16/04"
-    description: "Android para Iniciantes"
-    agenda:
-      - 
-        name: "Curso e grupo de estudos"
-        time: 
-          start: "13:00"
-          end: "18:00"
-        description: ""
-        speaker:
-          name: "Facilitador: Italo Marcel"
-          url: ""
-          photo: "./img/speakers/italo_marcel.jpg"
   -
     day: "0204"
     name: "02/04 Talks #2"
     description: "Segundo dia de palestras, aberto à toda comunidade!"
+    url: "http://www.meetup.com/pt-BR/GDG-Aracaju/events/229623381/"
     agenda:
       -
         name: "Segurança no Android"
@@ -161,6 +147,21 @@ schedule:
           name: "Ítalo Marcel"
           photo: "./img/speakers/italo_marcel.jpg"
           url: ""
+  - 
+    day: "1903"
+    name: "19/03 a 16/04"
+    description: "Android para Iniciantes"
+    agenda:
+      - 
+        name: "Curso e grupo de estudos"
+        time: 
+          start: "13:00"
+          end: "18:00"
+        description: ""
+        speaker:
+          name: "Facilitador: Italo Marcel"
+          url: ""
+          photo: "./img/speakers/italo_marcel.jpg"
   - 
     day: "1203"
     name: "12/03 Talks #1"
@@ -253,7 +254,7 @@ partners:
 # About section
 about_section:
    title: "Sobre"
-   description: "A segunda temporada do Android Jam está chegando! Nesse ano, teremos um foco maior em pôr a mão na massa e guiar os iniciantes a criar seu primeiro aplicativo Android!"
+   description: "A segunda temporada do Android Jam está acontecendo em abril e maio de 2016! Nesse ano, teremos um foco maior em pôr a mão na massa e guiar os iniciantes a criar seu primeiro aplicativo Android!"
 
 # Call for papers section
 c4p_section:

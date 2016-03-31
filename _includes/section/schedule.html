@@ -8,6 +8,9 @@
                 <div id="{{day.day}}">
                     <h1>{{ day.name }}</h1>
                     <span>{{ day.description }}</span>
+                    {% if day.url %}
+                    <span><b><a href="{{ day.url }}">Inscreva-se!</a></b></span>
+                    {% endif %}
                     <p>&nbsp;</p>
                     {% for slot in day.agenda %}
                     <div class="presentation-gem row">
