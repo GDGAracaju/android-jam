@@ -138,7 +138,7 @@ schedule:
           photo: "./img/speakers/ygor.jpg"
           url: ""
       -
-        name: "A confirmar :)"
+        name: "As melhores libs para seu projeto Android"
         time: 
           start: "16:30"
           end: "17:30"
